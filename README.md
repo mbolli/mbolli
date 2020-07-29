@@ -15,7 +15,7 @@
 
 ### Technologies I use almost daily
 I’m mainly working on PHP (>7) projects and web pages using a self-made framework/boilerplate which is unfortunately private.
-- PHP (Slim framework v3, Doctrine annotations, etc.)
+- PHP (using Slim framework v3, Doctrine annotations, Dependency Injection etc.)
 - MySQL/MariaDB
 - JavaScript and TypeScript (LitElement/LitHTML, Webpack/Babel, etc.)
 - CSS/Sass
