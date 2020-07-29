@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there, I’m Michael 👋
 
-<!--
-**mbolli/mbolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engenieer at moxi ltd 💻
+- Living and working in Switzerland 🇨🇭🏔
+- BSc in Computer Science (2017) with IT-Security as major 🎓
+- Married
+- Saving up for a 1-2 year roadtrip with our '92 4x4 Mercedes 310 Van 🚒
+- Love doing and discussing
+  - cycling (racing/mountain bikes) 🚴
+  - running 🏃 (yes I’ve got Strava)
+  - photographing 📷 check out some [photos](https://bolli.us) or my [insta](https://instagram.com/michaelbolli)
+  - cars 🚗 especially if they’re light and fast
+  - music 🎶 have a look at my [last.fm](https://last.fm/user/bolley)
+- My PGP public key is on [keybase.io](https://keybase.io/mbolli) 🔑
 
-Here are some ideas to get you started:
+### Technologies I use almost daily
+I’m mainly working on PHP (>7) projects and web pages using a self-made framework/boilerplate which is unfortunately private.
+- PHP (Slim framework v3, Doctrine annotations, etc.)
+- MySQL/MariaDB
+- JavaScript and TypeScript (LitElement/LitHTML, Webpack/Babel, etc.)
+- CSS/Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I’d like to use/do/learn more
+- Python
+- Arduino
+- DevOps
+- IT-Security
+
+### GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
