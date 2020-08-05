@@ -1,6 +1,6 @@
 ## Hi there, I’m Michael 👋
 
-- Software Engenieer at moxi ltd 💻
+- Software Engineer at moxi ltd 💻
 - Living and working in Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
 - Married
