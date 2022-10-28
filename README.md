@@ -1,7 +1,7 @@
 ## Hi there, I’m Michael 👋
 
 - Software Engineer at moxi ltd 💻
-- On a [12-18 months roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
+- Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
 - Married 💍
@@ -13,11 +13,11 @@
 - My PGP public key is on [keybase.io](https://keybase.io/mbolli) 🔑
 
 ### Technologies I use almost daily
-I’m mainly working on PHP (>7) projects and web pages using a self-made framework/boilerplate which is unfortunately private.
-- PHP (using Slim framework v3, Doctrine annotations, Dependency Injection etc.)
+I’m mainly working on PHP 8 projects and web pages using a self-made framework/boilerplate which is unfortunately private.
+- PHP (using Slim framework v4, Twig, JWTs, annotations, DI etc.)
 - MySQL/MariaDB
-- ES6 JavaScript and TypeScript (LitElement/LitHTML, Webpack/Babel, etc.)
-- CSS/Sass
+- ES6 JavaScript and TypeScript (Lit, ESbuild, etc.)
+- CSS/Sass (Bulma framework)
 
 ### Stuff I’d like to use/do/learn more
 - Python
@@ -25,5 +25,6 @@ I’m mainly working on PHP (>7) projects and web pages using a self-made framew
 - DevOps
 - IT-Security
 
-### GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Language stats
+
+[<img src="https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg" width="300">](https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg)
