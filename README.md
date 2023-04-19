@@ -1,6 +1,6 @@
 ## Hi there, I’m Michael 👋
 
-- Software Engineer at moxi ltd 💻
+- Software Engineer – 3 days a week self-employed, 2 days a week doing full stack & cloud devops at GrabX Solutions 💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
@@ -14,9 +14,9 @@
 
 ### Technologies I use almost daily
 I’m mainly working on PHP 8 projects and web pages using a self-made framework/boilerplate which is unfortunately private.
-- PHP (using Slim framework v4, Twig, JWTs, annotations, DI etc.)
+- PHP (using Slim framework v4, Twig, JWTs, Dependency Injection, strictly typed classes :)
 - MySQL/MariaDB
-- ES6 JavaScript and TypeScript (Lit, ESbuild, etc.)
+- ES6 JavaScript and TypeScript (Lit, ESbuild, etc.), sometimes React or Vue.js
 - CSS/Sass (Bulma framework)
 
 ### Stuff I’d like to use/do/learn more
