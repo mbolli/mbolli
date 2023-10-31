@@ -1,6 +1,6 @@
 ## Hi there, I’m Michael 👋
 
-- Software Engineer – 3 days a week self-employed, 2 days a week doing full stack & cloud devops at GrabX Solutions 💻
+- Self-employed Full Stack Software Engineer – I work with PHP, TypeScript and everything in-between 💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
