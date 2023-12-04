@@ -43,14 +43,14 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 1 month ago) - Mapping parsing base library for any kind of project or library
+- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 2 months ago) - Mapping parsing base library for any kind of project or library
 - [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) ([9.18.2](https://github.com/php-curl-class/php-curl-class/releases/tag/9.18.2), 2 months ago) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 11 months ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.2](https://github.com/mbolli/nfsen-ng/releases/tag/v0.2), 3 years ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (2 days ago)
+- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (5 days ago)
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 month ago)
 - [remove number type `currency` as `NumberFormatter::TYPE_CURRENCY` is deprecated in PHP 8.3](https://github.com/twigphp/intl-extra/pull/10) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (1 month ago)
 - [replace deprecated `utf8_encode` with `mb_convert_encoding`](https://github.com/enygma/yubikey/pull/33) on [enygma/yubikey](https://github.com/enygma/yubikey) (1 month ago)
@@ -69,7 +69,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (7 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (8 months ago)
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code. (8 months ago)
-- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨ (8 months ago)
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨ (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
