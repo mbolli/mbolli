@@ -50,7 +50,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (5 days ago)
+- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (1 week ago)
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 month ago)
 - [remove number type `currency` as `NumberFormatter::TYPE_CURRENCY` is deprecated in PHP 8.3](https://github.com/twigphp/intl-extra/pull/10) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (1 month ago)
 - [replace deprecated `utf8_encode` with `mb_convert_encoding`](https://github.com/enygma/yubikey/pull/33) on [enygma/yubikey](https://github.com/enygma/yubikey) (1 month ago)
@@ -65,11 +65,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [Access4all/adg](https://github.com/Access4all/adg) - Accessibility Developer Guide (6 months ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 days ago)
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (3 days ago)
+- [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (3 days ago)
+- [Access4all/adg](https://github.com/Access4all/adg) - Accessibility Developer Guide (7 months ago)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (7 months ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (8 months ago)
-- [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code. (8 months ago)
-- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨ (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
