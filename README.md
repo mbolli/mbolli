@@ -45,7 +45,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 2 months ago) - Mapping parsing base library for any kind of project or library
 - [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) ([9.18.2](https://github.com/php-curl-class/php-curl-class/releases/tag/9.18.2), 3 months ago) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 11 months ago) - PHP library for the geobuf compact geospatial format.
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 1 year ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.2](https://github.com/mbolli/nfsen-ng/releases/tag/v0.2), 3 years ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
@@ -58,18 +58,18 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 📓 Gists I wrote
 
-- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (8 months ago)
+- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (9 months ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (2 years ago)
 - [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (5 years ago)
 - [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (7 years ago)
 
 #### ⭐ Recent Stars
 
+- [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (3 days ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 week ago)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (1 week ago)
 - [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (1 week ago)
 - [Access4all/adg](https://github.com/Access4all/adg) - Accessibility Developer Guide (7 months ago)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
