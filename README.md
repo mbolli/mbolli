@@ -29,8 +29,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (2 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (2 months ago)
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (9 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (9 months ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (9 months ago)
 - [juliangut/mapping](https://github.com/juliangut/mapping) - Mapping parsing base library for any kind of project or library (9 months ago)
 
 #### 🌱 My latest projects
@@ -60,15 +60,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (9 months ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (2 years ago)
-- [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (5 years ago)
+- [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (6 years ago)
 - [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (7 years ago)
 
 #### ⭐ Recent Stars
 
 - [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (1 week ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 weeks ago)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (2 weeks ago)
-- [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (2 weeks ago)
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (3 weeks ago)
+- [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (3 weeks ago)
 - [Access4all/adg](https://github.com/Access4all/adg) - Accessibility Developer Guide (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
