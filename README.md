@@ -50,7 +50,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (4 weeks ago)
+- [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (1 month ago)
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 months ago)
 - [remove number type `currency` as `NumberFormatter::TYPE_CURRENCY` is deprecated in PHP 8.3](https://github.com/twigphp/intl-extra/pull/10) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (2 months ago)
 - [replace deprecated `utf8_encode` with `mb_convert_encoding`](https://github.com/enygma/yubikey/pull/33) on [enygma/yubikey](https://github.com/enygma/yubikey) (2 months ago)
