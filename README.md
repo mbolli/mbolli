@@ -43,7 +43,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 2 months ago) - Mapping parsing base library for any kind of project or library
+- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 3 months ago) - Mapping parsing base library for any kind of project or library
 - [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) ([9.18.2](https://github.com/php-curl-class/php-curl-class/releases/tag/9.18.2), 3 months ago) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 1 year ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.2](https://github.com/mbolli/nfsen-ng/releases/tag/v0.2), 3 years ago) - Responsive NetFlow visualizer built on top of nfdump tools.
@@ -67,8 +67,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (2 weeks ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (3 weeks ago)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (3 weeks ago)
-- [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (3 weeks ago)
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (4 weeks ago)
+- [kornrunner/php-blurhash](https://github.com/kornrunner/php-blurhash) - Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash) (4 weeks ago)
 - [Access4all/adg](https://github.com/Access4all/adg) - Accessibility Developer Guide (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
