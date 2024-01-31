@@ -29,8 +29,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (3 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (3 months ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (10 months ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (10 months ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (10 months ago)
 - [juliangut/mapping](https://github.com/juliangut/mapping) - Mapping parsing base library for any kind of project or library (10 months ago)
 
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 3 months ago) - Mapping parsing base library for any kind of project or library
+- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 4 months ago) - Mapping parsing base library for any kind of project or library
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 1 year ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.2](https://github.com/mbolli/nfsen-ng/releases/tag/v0.2), 3 years ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
@@ -64,7 +64,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard (1 week ago)
 - [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (1 month ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 month ago)
