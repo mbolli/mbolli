@@ -64,14 +64,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard (2 weeks ago)
 - [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (1 month ago)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 month ago)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (1 month ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 months ago)
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [davidshirk80](https://github.com/davidshirk80) (3 days ago)
 
 ### Language stats
 
