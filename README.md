@@ -29,8 +29,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (3 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (4 months ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (10 months ago)
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (10 months ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (11 months ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (11 months ago)
 - [juliangut/mapping](https://github.com/juliangut/mapping) - Mapping parsing base library for any kind of project or library (11 months ago)
 
 #### 🌱 My latest projects
@@ -57,18 +57,18 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 📓 Gists I wrote
 
-- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (10 months ago)
+- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (11 months ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (2 years ago)
 - [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (6 years ago)
 - [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (7 years ago)
 
 #### ⭐ Recent Stars
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (4 days ago)
+- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (1 day ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard (3 weeks ago)
-- [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (1 month ago)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 months ago)
+- [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) - Ertuo: quick routing for PHP (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
