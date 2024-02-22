@@ -64,15 +64,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell &amp; powerful scripting language in one (6 days ago)
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell &amp; powerful scripting language in one (1 week ago)
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (1 week ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 week ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 weeks ago)
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [davidshirk80](https://github.com/davidshirk80) (2 weeks ago)
+- [davidshirk80](https://github.com/davidshirk80) (3 weeks ago)
 
 ### Language stats
 
