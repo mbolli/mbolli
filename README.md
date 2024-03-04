@@ -27,7 +27,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (5 days ago)
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (4 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (4 months ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (11 months ago)
@@ -43,7 +43,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3), 2 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3), 5 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 5 months ago) - Mapping parsing base library for any kind of project or library
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 1 year ago) - PHP library for the geobuf compact geospatial format.
 
@@ -65,14 +65,13 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### ⭐ Recent Stars
 
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (2 weeks ago)
-- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (2 weeks ago)
+- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (3 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [davidshirk80](https://github.com/davidshirk80) (4 weeks ago)
 
 ### Language stats
 
