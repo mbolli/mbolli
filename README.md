@@ -31,7 +31,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (4 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (5 months ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (11 months ago)
-- [juliangut/mapping](https://github.com/juliangut/mapping) - Mapping parsing base library for any kind of project or library (11 months ago)
+- [juliangut/mapping](https://github.com/juliangut/mapping) - Mapping parsing base library for any kind of project or library (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -53,7 +53,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 months ago)
 - [remove number type `currency` as `NumberFormatter::TYPE_CURRENCY` is deprecated in PHP 8.3](https://github.com/twigphp/intl-extra/pull/10) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (4 months ago)
 - [replace deprecated `utf8_encode` with `mb_convert_encoding`](https://github.com/enygma/yubikey/pull/33) on [enygma/yubikey](https://github.com/enygma/yubikey) (5 months ago)
-- [v0.3: PHP 8.1&#43;, PSR4, bits/bytes switch, reverse dns, human-readable byte numbers, etc.](https://github.com/mbolli/nfsen-ng/pull/90) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (10 months ago)
+- [v0.3: PHP 8.1&#43;, PSR4, bits/bytes switch, reverse dns, human-readable byte numbers, etc.](https://github.com/mbolli/nfsen-ng/pull/90) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (11 months ago)
 
 #### 📓 Gists I wrote
 
@@ -64,7 +64,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (3 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (6 days ago)
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (3 weeks ago)
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (3 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 month ago)
