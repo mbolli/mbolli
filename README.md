@@ -27,7 +27,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 weeks ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (4 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (5 months ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 year ago)
@@ -43,32 +43,31 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [juliangut/mapping](https://github.com/juliangut/mapping) ([1.4.2](https://github.com/juliangut/mapping/releases/tag/1.4.2), 5 months ago) - Mapping parsing base library for any kind of project or library
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 3 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 1 year ago) - PHP library for the geobuf compact geospatial format.
 
 #### 🔨 My recent Pull Requests
 
+- [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (3 days ago)
 - [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (3 months ago)
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 months ago)
 - [remove number type `currency` as `NumberFormatter::TYPE_CURRENCY` is deprecated in PHP 8.3](https://github.com/twigphp/intl-extra/pull/10) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (4 months ago)
 - [replace deprecated `utf8_encode` with `mb_convert_encoding`](https://github.com/enygma/yubikey/pull/33) on [enygma/yubikey](https://github.com/enygma/yubikey) (5 months ago)
-- [v0.3: PHP 8.1&#43;, PSR4, bits/bytes switch, reverse dns, human-readable byte numbers, etc.](https://github.com/mbolli/nfsen-ng/pull/90) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (11 months ago)
 
 #### 📓 Gists I wrote
 
-- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (11 months ago)
+- [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (1 year ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (2 years ago)
 - [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (6 years ago)
 - [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (7 years ago)
 
 #### ⭐ Recent Stars
 
+- [blokkli/editor](https://github.com/blokkli/editor) - Interactive page editor for Nuxt 3 (1 day ago)
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (1 week ago)
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (4 weeks ago)
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (1 month ago)
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (1 month ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 month ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
