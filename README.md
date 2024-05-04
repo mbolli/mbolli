@@ -62,7 +62,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment. (1 month ago)
 - [blokkli/editor](https://github.com/blokkli/editor) - Interactive page editor for Nuxt 3 (1 month ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (1 month ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (2 months ago)
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (2 months ago)
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend (2 months ago)
 
