@@ -60,11 +60,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (1 week ago)
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (2 weeks ago)
 - [nelmio/alice](https://github.com/nelmio/alice) - Expressive fixtures generator (2 weeks ago)
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment. (2 months ago)
 - [blokkli/editor](https://github.com/blokkli/editor) - Interactive page editor for Nuxt 3 (2 months ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (2 months ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
