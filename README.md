@@ -45,8 +45,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (3 days ago)
-- [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (6 days ago)
+- [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (6 days ago)
+- [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 week ago)
 - [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (4 months ago)
 - [Prevent `E_DEPRECATED` because of dynamic property](https://github.com/enygma/yubikey/pull/34) on [enygma/yubikey](https://github.com/enygma/yubikey) (8 months ago)
 - [fix `NumberFormatter::TYPE_CURRENCY` being deprecated in PHP 8.3](https://github.com/twigphp/Twig/pull/3894) on [twigphp/Twig](https://github.com/twigphp/Twig) (9 months ago)
@@ -60,8 +60,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊 (2 weeks ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (5 days ago)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊 (3 weeks ago)
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup (1 month ago)
 - [pilcrowOnPaper/copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web (1 month ago)
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (2 months ago)
