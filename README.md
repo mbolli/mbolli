@@ -49,7 +49,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 🔨 My recent Pull Requests
 
 - [geojson: enhance timestamp detection](https://github.com/timelinize/timelinize/pull/29) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 week ago)
-- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 week ago)
+- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (2 weeks ago)
 - [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (1 month ago)
 - [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 month ago)
 - [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (5 months ago)
@@ -63,9 +63,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (3 days ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (4 days ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 weeks ago)
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (2 weeks ago)
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (3 weeks ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊 (1 month ago)
 
