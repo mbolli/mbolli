@@ -43,7 +43,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 2 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 5 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 5 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 2 years ago) - PHP library for the geobuf compact geospatial format.
 
@@ -65,7 +65,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### ⭐ Recent Stars
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 week ago)
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 weeks ago)
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (3 weeks ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (3 weeks ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊 (1 month ago)
