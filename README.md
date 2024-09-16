@@ -31,7 +31,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 month ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (6 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (9 months ago)
-- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig (10 months ago)
+- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,14 +43,14 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 1 week ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 2 weeks ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 6 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.1.4](https://github.com/mbolli/php-geobuf/releases/tag/v0.1.4), 2 years ago) - PHP library for the geobuf compact geospatial format.
 
 #### 🔨 My recent Pull Requests
 
 - [geojson: enhance timestamp detection](https://github.com/timelinize/timelinize/pull/29) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (3 weeks ago)
-- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (3 weeks ago)
+- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (4 weeks ago)
 - [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (1 month ago)
 - [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 month ago)
 - [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (6 months ago)
@@ -65,7 +65,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### ⭐ Recent Stars
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 weeks ago)
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (4 weeks ago)
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 month ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (1 month ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊 (2 months ago)
