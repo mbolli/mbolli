@@ -27,7 +27,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (3 weeks ago)
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 month ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 month ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (6 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (9 months ago)
@@ -49,8 +49,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [geojson: enhance timestamp detection](https://github.com/timelinize/timelinize/pull/29) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (3 weeks ago)
-- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (4 weeks ago)
+- [geojson: enhance timestamp detection](https://github.com/timelinize/timelinize/pull/29) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 month ago)
+- [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 month ago)
 - [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (1 month ago)
 - [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 month ago)
 - [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (6 months ago)
@@ -64,7 +64,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 weeks ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (3 weeks ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 month ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (1 month ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
