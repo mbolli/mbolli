@@ -52,7 +52,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [geojson: enhance timestamp detection](https://github.com/timelinize/timelinize/pull/29) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 month ago)
 - [Add UI for geojson import options](https://github.com/timelinize/timelinize/pull/27) on [timelinize/timelinize](https://github.com/timelinize/timelinize) (1 month ago)
 - [Plugins: add `PluginPosition.None` to hide plugin](https://github.com/grid-js/gridjs/pull/1469) on [grid-js/gridjs](https://github.com/grid-js/gridjs) (1 month ago)
-- [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 month ago)
+- [config array description should allow `logger` key](https://github.com/JimTools/jwt-auth/pull/6) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (2 months ago)
 - [fix deprecated creation of dynamic property](https://github.com/ertuo-php/ertuo/pull/2) on [ertuo-php/ertuo](https://github.com/ertuo-php/ertuo) (6 months ago)
 
 #### 📓 Gists I wrote
