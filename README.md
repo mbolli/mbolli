@@ -64,7 +64,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (4 weeks ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 month ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 month ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (1 month ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 months ago)
