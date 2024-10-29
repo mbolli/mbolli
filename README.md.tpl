@@ -59,7 +59,3 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-### Language stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)
