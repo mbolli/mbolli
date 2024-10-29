@@ -62,4 +62,4 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 ### Language stats
 
-[<img src="https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg" width="300">](https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)
