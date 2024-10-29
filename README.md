@@ -28,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 👷 Check out what I'm currently working on
 
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 months ago)
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (2 months ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (3 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (7 months ago)
 - [enygma/yubikey](https://github.com/enygma/yubikey) - PHP library to interface with the Yubikey REST API (11 months ago)
 
@@ -63,15 +63,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (1 week ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 day ago)
+- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (2 weeks ago)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 months ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 months ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (2 months ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 ### Language stats
 
-[<img src="https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg" width="300">](https://wakatime.com/share/@4a3a3032-9f00-4295-ad68-7732dd16f99c/c309d176-afe6-4dca-9375-1ddb3b797912.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)
