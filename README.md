@@ -71,7 +71,3 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-
-### Language stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolli&layout=compact)
