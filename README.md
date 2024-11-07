@@ -64,7 +64,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### ⭐ Recent Stars
 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 week ago)
-- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (2 weeks ago)
+- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (3 weeks ago)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 months ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 months ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (2 months ago)
