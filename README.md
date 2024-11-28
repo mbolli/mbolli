@@ -43,8 +43,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 4 days ago) - PSR-15 middleware to normalize the trailing slash of the uri path
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 4 days ago) - Common utils used by PSR-15 middlewares
+- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 1 week ago) - PSR-15 middleware to normalize the trailing slash of the uri path
+- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 1 week ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 1 week ago) - PHP library for the geobuf compact geospatial format.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 2 months ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 8 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
@@ -66,9 +66,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (4 weeks ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 month ago)
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (1 month ago)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 months ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (3 months ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (3 months ago)
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (3 months ago)
 
