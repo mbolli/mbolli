@@ -27,11 +27,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 week ago)
+- [mbolli/koken_php74_patch](https://github.com/mbolli/koken_php74_patch) - Continue to run your Koken installation with this patch. (2 days ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (2 weeks ago)
 - [middlewares/utils](https://github.com/middlewares/utils) - Common utils used by PSR-15 middlewares (2 weeks ago)
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) - PSR-15 middleware to normalize the trailing slash of the uri path (2 weeks ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (3 weeks ago)
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,32 +45,32 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 1 week ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 1 week ago) - Common utils used by PSR-15 middlewares
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 1 week ago) - PHP library for the geobuf compact geospatial format.
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 2 weeks ago) - PHP library for the geobuf compact geospatial format.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.2](https://github.com/timelinize/timelinize/releases/tag/v0.0.2), 3 months ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 8 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
 
+- [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (3 days ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (2 weeks ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/trailing-slash/pull/6) on [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) (2 weeks ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/tuupola/server-timing-middleware/pull/29) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (2 weeks ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/JimTools/jwt-auth/pull/10) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (2 weeks ago)
-- [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/mbolli/jwt-auth/pull/1) on [mbolli/jwt-auth](https://github.com/mbolli/jwt-auth) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
 - [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (2 years ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (3 years ago)
 - [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (6 years ago)
-- [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (7 years ago)
+- [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (8 years ago)
 
 #### ⭐ Recent Stars
 
+- [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. (3 days ago)
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (3 days ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 month ago)
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (1 month ago)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (3 months ago)
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (3 months ago)
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
