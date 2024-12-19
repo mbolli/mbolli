@@ -28,9 +28,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 👷 Check out what I'm currently working on
 
 - [mbolli/koken_php74_patch](https://github.com/mbolli/koken_php74_patch) - Continue to run your Koken installation with this patch. (2 weeks ago)
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (4 weeks ago)
-- [middlewares/utils](https://github.com/middlewares/utils) - Common utils used by PSR-15 middlewares (1 month ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 month ago)
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) - PSR-15 middleware to normalize the trailing slash of the uri path (1 month ago)
+- [middlewares/utils](https://github.com/middlewares/utils) - Common utils used by PSR-15 middlewares (1 month ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
 
 #### 🌱 My latest projects
@@ -43,10 +43,10 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.3](https://github.com/timelinize/timelinize/releases/tag/v0.0.3), 2 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 3 weeks ago) - PSR-15 middleware to normalize the trailing slash of the uri path
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 3 weeks ago) - Common utils used by PSR-15 middlewares
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 4 weeks ago) - PHP library for the geobuf compact geospatial format.
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.3](https://github.com/timelinize/timelinize/releases/tag/v0.0.3), 5 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 4 weeks ago) - PSR-15 middleware to normalize the trailing slash of the uri path
+- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 4 weeks ago) - Common utils used by PSR-15 middlewares
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 1 month ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 9 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
@@ -61,7 +61,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (2 years ago)
 - [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (3 years ago)
-- [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (6 years ago)
+- [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (7 years ago)
 - [](https://gist.github.com/92d2f67475453c77eed2b3a35ec42904) (8 years ago)
 
 #### ⭐ Recent Stars
