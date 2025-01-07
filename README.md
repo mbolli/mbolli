@@ -31,7 +31,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (1 month ago)
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) - PSR-15 middleware to normalize the trailing slash of the uri path (1 month ago)
 - [middlewares/utils](https://github.com/middlewares/utils) - Common utils used by PSR-15 middlewares (1 month ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,15 +47,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 1 month ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 1 month ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 1 month ago) - PHP library for the geobuf compact geospatial format.
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 9 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 10 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
 
+- [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (1 month ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (1 month ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/trailing-slash/pull/6) on [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) (1 month ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/tuupola/server-timing-middleware/pull/29) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (1 month ago)
-- [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/JimTools/jwt-auth/pull/10) on [JimTools/jwt-auth](https://github.com/JimTools/jwt-auth) (1 month ago)
 
 #### 📓 Gists I wrote
 
