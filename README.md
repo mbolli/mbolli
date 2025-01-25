@@ -28,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 👷 Check out what I'm currently working on
 
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (1 week ago)
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 week ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (2 weeks ago)
 - [mbolli/koken_php74_patch](https://github.com/mbolli/koken_php74_patch) - Continue to run your Koken installation with this patch. (1 month ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (2 months ago)
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) - PSR-15 middleware to normalize the trailing slash of the uri path (2 months ago)
@@ -43,9 +43,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.3](https://github.com/timelinize/timelinize/releases/tag/v0.0.3), 1 month ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.4](https://github.com/timelinize/timelinize/releases/tag/v0.0.4), 1 day ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 days ago) - Common utils used by PSR-15 middlewares
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 2 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.1](https://github.com/middlewares/utils/releases/tag/v4.0.1), 2 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 2 months ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 10 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
@@ -66,7 +66,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) -  (3 weeks ago)
+- [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) -  (4 weeks ago)
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. (1 month ago)
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (1 month ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 months ago)
