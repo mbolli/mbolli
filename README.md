@@ -43,15 +43,15 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.4](https://github.com/timelinize/timelinize/releases/tag/v0.0.4), 1 day ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 days ago) - Common utils used by PSR-15 middlewares
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.4](https://github.com/timelinize/timelinize/releases/tag/v0.0.4), 4 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 5 days ago) - Common utils used by PSR-15 middlewares
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 2 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 2 months ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 10 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
 
-- [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
+- [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (1 month ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (2 months ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/trailing-slash/pull/6) on [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) (2 months ago)
@@ -66,10 +66,10 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) -  (4 weeks ago)
+- [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) -  (1 month ago)
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. (1 month ago)
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (1 month ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 months ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (3 months ago)
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
