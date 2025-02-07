@@ -1,6 +1,7 @@
 ## Hi there, I’m Michael 👋
 
-- Self-employed Full Stack Software Engineer – I work with PHP, TypeScript and everything in-between 💻
+- Self-employed Full Stack Software Engineer – I work with PHP, Python, TypeScript, Sass and whatever else is required
+  🚀 Need an expert in web & software development? Check out [zweiundeins.gmbh](https://zweiundeins.gmbh) – delivering solid code and smart solutions! 💡💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
