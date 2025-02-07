@@ -1,6 +1,7 @@
 ## Hi there, I’m Michael 👋
 
-- Self-employed Full Stack Software Engineer – I work with PHP, TypeScript and everything in-between 💻
+- Self-employed Full Stack Software Engineer – I work with PHP, Python, TypeScript, Sass and whatever else is required
+  🚀 Need an expert in web & software development? Check out [zweiundeins.gmbh](https://zweiundeins.gmbh) – delivering solid code and smart solutions! 💡💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
@@ -27,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 day ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (today)
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (3 weeks ago)
 - [mbolli/koken_php74_patch](https://github.com/mbolli/koken_php74_patch) - Continue to run your Koken installation with this patch. (2 months ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format. (2 months ago)
