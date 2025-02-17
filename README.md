@@ -5,7 +5,7 @@
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
-- Married 💍
+- Married 💍 and father of a sweet boy
 - Love doing and discussing
   - cycling 🚴 and running 🏃 (follow me on Strava)
   - photographing 📷 check out some [photos](https://bolli.us) or my [insta](https://instagram.com/michaelbolli)
@@ -28,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (4 days ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (5 days ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 week ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 week ago)
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (1 month ago)
@@ -44,7 +44,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.7), 2 days ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.7), 3 days ago) - The hypermedia framework.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.6](https://github.com/timelinize/timelinize/releases/tag/v0.0.6), 1 week ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 3 weeks ago) - Common utils used by PSR-15 middlewares
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 2 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
@@ -52,7 +52,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (4 days ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (5 days ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (2 months ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (3 months ago)
