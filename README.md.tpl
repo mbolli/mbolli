@@ -5,7 +5,7 @@
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
-- Married 💍
+- Married 💍 and father of a sweet boy
 - Love doing and discussing
   - cycling 🚴 and running 🏃 (follow me on Strava)
   - photographing 📷 check out some [photos](https://bolli.us) or my [insta](https://instagram.com/michaelbolli)
