@@ -29,7 +29,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 👷 Check out what I'm currently working on
 
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 weeks ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 weeks ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (4 weeks ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 month ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 month ago)
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (1 month ago)
@@ -52,8 +52,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (3 days ago)
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (3 weeks ago)
+- [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (6 days ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (4 weeks ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 months ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (3 months ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (3 months ago)
@@ -67,7 +67,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 days ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 month ago)
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular &amp; Open-Source Coverage-Guided Web Application Fuzzer for PHP (2 months ago)
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. (3 months ago)
