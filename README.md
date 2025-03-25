@@ -28,8 +28,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (3 days ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (4 weeks ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (6 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 month ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 month ago)
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (2 months ago)
@@ -44,10 +44,10 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
+- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 3 days ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.9](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.9), 3 weeks ago) - The hypermedia framework.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.6](https://github.com/timelinize/timelinize/releases/tag/v0.0.6), 1 month ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 1 month ago) - Common utils used by PSR-15 middlewares
-- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.0.3](https://github.com/middlewares/trailing-slash/releases/tag/v2.0.3), 4 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
+- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 4 months ago) - PHP library for the geobuf compact geospatial format.
 
 #### 🔨 My recent Pull Requests
@@ -67,7 +67,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 weeks ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 month ago)
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular &amp; Open-Source Coverage-Guided Web Application Fuzzer for PHP (2 months ago)
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. (3 months ago)
