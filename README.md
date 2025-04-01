@@ -44,7 +44,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 1 day ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 2 days ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 1 week ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.6](https://github.com/timelinize/timelinize/releases/tag/v0.0.6), 1 month ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 months ago) - Common utils used by PSR-15 middlewares
