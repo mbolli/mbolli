@@ -28,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 week ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (2 weeks ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 month ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 month ago)
@@ -44,7 +44,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 2 days ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 5 days ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 1 week ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.6](https://github.com/timelinize/timelinize/releases/tag/v0.0.6), 1 month ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 months ago) - Common utils used by PSR-15 middlewares
@@ -52,7 +52,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (3 weeks ago)
+- [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (4 weeks ago)
 - [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (1 month ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 months ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (4 months ago)
