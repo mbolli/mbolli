@@ -30,7 +30,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (3 weeks ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (1 month ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 months ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (2 months ago)
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch (2 months ago)
 
@@ -44,8 +44,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 1 week ago) - The hypermedia framework.
-- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 2 weeks ago) - PSR-15 middleware to normalize the trailing slash of the uri path
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 2 weeks ago) - The hypermedia framework.
+- [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 3 weeks ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.6](https://github.com/timelinize/timelinize/releases/tag/v0.0.6), 2 months ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 2 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 4 months ago) - PHP library for the geobuf compact geospatial format.
@@ -53,7 +53,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 🔨 My recent Pull Requests
 
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (1 month ago)
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (1 month ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (2 months ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 months ago)
 - [rector to PHP 8.4, disable mcrypt encryption driver](https://github.com/modufolio/Koken-App/pull/28) on [modufolio/Koken-App](https://github.com/modufolio/Koken-App) (4 months ago)
 - [fix PHP 8.4 deprecation error (implicitly nullable parameter)](https://github.com/middlewares/utils/pull/29) on [middlewares/utils](https://github.com/middlewares/utils) (4 months ago)
@@ -67,8 +67,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 days ago)
-- [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (6 days ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (6 days ago)
+- [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (1 week ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 months ago)
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular &amp; Open-Source Coverage-Guided Web Application Fuzzer for PHP (3 months ago)
