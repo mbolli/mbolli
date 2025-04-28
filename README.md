@@ -44,8 +44,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.7](https://github.com/timelinize/timelinize/releases/tag/v0.0.7), 1 week ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 3 weeks ago) - The hypermedia framework.
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.7](https://github.com/timelinize/timelinize/releases/tag/v0.0.7), 2 weeks ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 4 weeks ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 1 month ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 3 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 5 months ago) - PHP library for the geobuf compact geospatial format.
@@ -67,8 +67,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (4 days ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (1 week ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 weeks ago)
 - [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (3 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 months ago)
