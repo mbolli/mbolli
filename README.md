@@ -28,11 +28,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (3 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (6 days ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 month ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 months ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 months ago)
-- [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (2 months ago)
+- [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.8](https://github.com/timelinize/timelinize/releases/tag/v0.0.8), 5 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.9](https://github.com/timelinize/timelinize/releases/tag/v0.0.9), 3 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 1 month ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 1 month ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 3 months ago) - Common utils used by PSR-15 middlewares
@@ -52,7 +52,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (1 day ago)
+- [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (4 days ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (2 months ago)
 - [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (2 months ago)
@@ -70,8 +70,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (2 weeks ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 month ago)
 - [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (1 month ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (2 months ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
