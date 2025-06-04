@@ -28,7 +28,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (4 weeks ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (1 month ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (2 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (3 months ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (3 months ago)
@@ -44,7 +44,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.9](https://github.com/timelinize/timelinize/releases/tag/v0.0.9), 3 weeks ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.11](https://github.com/timelinize/timelinize/releases/tag/v0.0.11), 2 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 2 months ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 2 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 4 months ago) - Common utils used by PSR-15 middlewares
@@ -52,7 +52,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (3 weeks ago)
+- [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (4 weeks ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (2 months ago)
 - [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (3 months ago)
@@ -67,10 +67,10 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (1 week ago)
+- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (2 weeks ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (1 month ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 month ago)
-- [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (1 month ago)
+- [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (2 months ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
