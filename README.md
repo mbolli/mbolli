@@ -29,7 +29,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 👷 Check out what I'm currently working on
 
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (1 month ago)
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (2 months ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (3 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (3 months ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (4 months ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (4 months ago)
@@ -67,11 +67,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (4 weeks ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (1 month ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (1 month ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 months ago)
 - [shipsaas/never-throw](https://github.com/shipsaas/never-throw) - Response-first over Throw Exceptions. PHP NeverThrow library (2 months ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
