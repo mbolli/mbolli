@@ -44,8 +44,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.12](https://github.com/timelinize/timelinize/releases/tag/v0.0.12), 6 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 2 months ago) - The hypermedia framework.
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.12](https://github.com/timelinize/timelinize/releases/tag/v0.0.12), 1 week ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 3 months ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 3 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 5 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 7 months ago) - PHP library for the geobuf compact geospatial format.
