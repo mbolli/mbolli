@@ -31,7 +31,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (2 months ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (3 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (4 months ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (4 months ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (5 months ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -44,8 +44,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.13](https://github.com/timelinize/timelinize/releases/tag/v0.0.13), 2 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-beta.11](https://github.com/starfederation/datastar/releases/tag/v1.0.0-beta.11), 3 months ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.1](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.1), 3 days ago) - The hypermedia framework.
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.13](https://github.com/timelinize/timelinize/releases/tag/v0.0.13), 5 days ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 3 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 5 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 7 months ago) - PHP library for the geobuf compact geospatial format.
@@ -55,7 +55,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (2 months ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (4 months ago)
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (4 months ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (5 months ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 months ago)
 
 #### 📓 Gists I wrote
