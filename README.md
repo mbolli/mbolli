@@ -44,8 +44,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.2](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.2), 1 week ago) - The hypermedia framework.
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.13](https://github.com/timelinize/timelinize/releases/tag/v0.0.13), 2 weeks ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.3](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.3), 2 days ago) - The hypermedia framework.
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) ([v0.0.13](https://github.com/timelinize/timelinize/releases/tag/v0.0.13), 3 weeks ago) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 4 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 6 months ago) - Common utils used by PSR-15 middlewares
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 8 months ago) - PHP library for the geobuf compact geospatial format.
@@ -53,7 +53,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 #### 🔨 My recent Pull Requests
 
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (2 months ago)
-- [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
+- [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (4 months ago)
 - [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (5 months ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 months ago)
