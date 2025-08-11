@@ -1,24 +1,25 @@
 ## Hi there, I’m Michael 👋
 
-- Self-employed Full Stack Software Engineer – I work with PHP, Python, TypeScript, Sass and whatever else is required
-  🚀 Need an expert in web & software development? Check out [zweiundeins.gmbh](https://zweiundeins.gmbh) – delivering solid code and smart solutions! 💡💻
+- Self-employed Full Stack Software Engineer – I love working with PHP, Go, Python, TypeScript, Sass and Datastar
+  🚀 Need an expert in web & software development? Hire me via [zweiundeins.gmbh](https://zweiundeins.gmbh)! 💡💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
-- Married 💍 and father of a sweet boy
+- Married 💍 and father of two sweet boys
 - Love doing and discussing
   - cycling 🚴 and running 🏃 (follow me on Strava)
   - photographing 📷 check out some [photos](https://bolli.us) or my [insta](https://instagram.com/michaelbolli)
-  - cars 🚗 especially if they’re light and fast
+  - cars 🚗 especially if they’re light or have a unique sound
   - music 🎶 have a look at my [last.fm](https://last.fm/user/bolley)
 - My PGP public key is on [keybase.io](https://keybase.io/mbolli) 🔑
 
 ### Technologies I use almost daily
 I’m mainly working on PHP 8 projects and web pages using a self-made framework/boilerplate which is unfortunately private.
 - PHP (using Slim framework v4, Twig, JWTs, Dependency Injection, strictly typed classes :)
-- MySQL/MariaDB
+- MySQL/MariaDB, SQLite
 - ES6 JavaScript and TypeScript (Lit, ESbuild, etc.), sometimes React or Vue.js
 - CSS/Sass (Bulma framework)
+- Datastar for a more hypermedia-driven approach
 
 ### Stuff I’d like to use/do/learn more
 - Python
@@ -31,7 +32,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (3 months ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (4 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (5 months ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (5 months ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (6 months ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -55,7 +56,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (3 months ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (5 months ago)
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (5 months ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (6 months ago)
 - [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (7 months ago)
 
 #### 📓 Gists I wrote
