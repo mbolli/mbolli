@@ -1,24 +1,25 @@
 ## Hi there, I’m Michael 👋
 
-- Self-employed Full Stack Software Engineer – I work with PHP, Python, TypeScript, Sass and whatever else is required
-  🚀 Need an expert in web & software development? Check out [zweiundeins.gmbh](https://zweiundeins.gmbh) – delivering solid code and smart solutions! 💡💻
+- Self-employed Full Stack Software Engineer – I love working with PHP, Go, Python, TypeScript, Sass and Datastar
+  🚀 Need an expert in web & software development? Hire me via [zweiundeins.gmbh](https://zweiundeins.gmbh)! 💡💻
 - Back from a [16 month roadtrip](https://unterwegs.2und1.ch) with our '92 Mercedes T1 310 4x4 Van 🚒
 - Originally hailing from Switzerland 🇨🇭🏔
 - BSc in Computer Science (2017) with IT-Security as major 🎓
-- Married 💍 and father of a sweet boy
+- Married 💍 and father of two sweet boys
 - Love doing and discussing
   - cycling 🚴 and running 🏃 (follow me on Strava)
   - photographing 📷 check out some [photos](https://bolli.us) or my [insta](https://instagram.com/michaelbolli)
-  - cars 🚗 especially if they’re light and fast
+  - cars 🚗 especially if they’re light or have a unique sound
   - music 🎶 have a look at my [last.fm](https://last.fm/user/bolley)
 - My PGP public key is on [keybase.io](https://keybase.io/mbolli) 🔑
 
 ### Technologies I use almost daily
 I’m mainly working on PHP 8 projects and web pages using a self-made framework/boilerplate which is unfortunately private.
 - PHP (using Slim framework v4, Twig, JWTs, Dependency Injection, strictly typed classes :)
-- MySQL/MariaDB
+- MySQL/MariaDB, SQLite
 - ES6 JavaScript and TypeScript (Lit, ESbuild, etc.), sometimes React or Vue.js
 - CSS/Sass (Bulma framework)
+- Datastar for a more hypermedia-driven approach
 
 ### Stuff I’d like to use/do/learn more
 - Python
