@@ -68,7 +68,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [Wilaak/DatastarSwoole](https://github.com/Wilaak/DatastarSwoole) - Datastar SDK for Swoole PHP (4 days ago)
+- [Wilaak/DatastarSwoole](https://github.com/Wilaak/DatastarSwoole) - Datastar SDK for Swoole PHP (1 week ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 months ago)
 - [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (3 months ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (4 months ago)
