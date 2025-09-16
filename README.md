@@ -31,7 +31,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (4 months ago)
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (5 months ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (6 months ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (6 months ago)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (7 months ago)
 
@@ -45,10 +45,10 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.5](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.5), 4 weeks ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.5](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.5), 1 month ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 5 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 7 months ago) - Common utils used by PSR-15 middlewares
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 9 months ago) - PHP library for the geobuf compact geospatial format.
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.2.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.2.0), 10 months ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.3.1](https://github.com/mbolli/nfsen-ng/releases/tag/v0.3.1), 2 years ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
 #### 🔨 My recent Pull Requests
@@ -68,9 +68,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [Wilaak/DatastarSwoole](https://github.com/Wilaak/DatastarSwoole) - Datastar SDK for Swoole PHP (3 weeks ago)
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 months ago)
-- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (3 months ago)
+- [Wilaak/DatastarSwoole](https://github.com/Wilaak/DatastarSwoole) - Datastar SDK for Swoole PHP (4 weeks ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (3 months ago)
+- [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (4 months ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (4 months ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (5 months ago)
 
