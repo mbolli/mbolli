@@ -33,7 +33,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 month ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (5 months ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (6 months ago)
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (7 months ago)
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -53,11 +53,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
+- [Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (5 months ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (7 months ago)
-- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (7 months ago)
-- [add test fixture to skip explicitly nullable params](https://github.com/rectorphp/type-perfect/pull/56) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (9 months ago)
+- [README.md: fix button links](https://github.com/starfederation/datastar/pull/652) on [starfederation/datastar](https://github.com/starfederation/datastar) (8 months ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [alvarolm/datastar-resources](https://github.com/alvarolm/datastar-resources) -  (4 days ago)
+- [alvarolm/datastar-resources](https://github.com/alvarolm/datastar-resources) -  (1 week ago)
 - [wilaak/datastar-swoole](https://github.com/wilaak/datastar-swoole) - Datastar SDK for Swoole PHP (1 month ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (3 months ago)
 - [zangster300/northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar (https://data-star.dev/) and NATS (https://nats.io/) (4 months ago)
