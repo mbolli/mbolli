@@ -45,7 +45,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.4.0](https://github.com/mbolli/nfsen-ng/releases/tag/v0.4.0), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.4.0](https://github.com/mbolli/nfsen-ng/releases/tag/v0.4.0), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.5](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.5), 1 month ago) - The hypermedia framework.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 6 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
 - [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 8 months ago) - Common utils used by PSR-15 middlewares
@@ -53,7 +53,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔨 My recent Pull Requests
 
-- [Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
+- [Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (5 months ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (7 months ago)
