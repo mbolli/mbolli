@@ -29,31 +29,31 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (3 days ago)
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin for `data-prop` (1 day ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 months ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - Next level type declaration check PHPStan rules (6 months ago)
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (7 months ago)
 
 #### 🌱 My latest projects
 
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin for `data-prop`
 - [mbolli/autoscout24-advanced-search](https://github.com/mbolli/autoscout24-advanced-search) - Search for specific features or optional equipment on autoscout24.ch
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) - Track your time in Google Sheets and automatically generate CashCtrl orders with a single command
 - [mbolli/rs.bolli.us](https://github.com/mbolli/rs.bolli.us) - (2011) old blog about the mandatory military school in Switzerland (german)
 - [mbolli/aoc-2021](https://github.com/mbolli/aoc-2021) - Advent Of Code 2021
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) - PHP library for the geobuf compact geospatial format.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.5](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.5), 1 day ago) - Datastar plugin for `data-prop`
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.6](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.6), 1 week ago) - The hypermedia framework.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.4.0](https://github.com/mbolli/nfsen-ng/releases/tag/v0.4.0), 1 month ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [middlewares/trailing-slash](https://github.com/middlewares/trailing-slash) ([v2.1.0](https://github.com/middlewares/trailing-slash/releases/tag/v2.1.0), 7 months ago) - PSR-15 middleware to normalize the trailing slash of the uri path
-- [middlewares/utils](https://github.com/middlewares/utils) ([v4.0.2](https://github.com/middlewares/utils/releases/tag/v4.0.2), 9 months ago) - Common utils used by PSR-15 middlewares
 
 #### 🔨 My recent Pull Requests
 
-- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (1 day ago)
+- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (2 days ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 weeks ago)
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (5 months ago)
 - [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 months ago)
