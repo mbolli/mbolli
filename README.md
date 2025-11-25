@@ -29,9 +29,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) - Datastar plugin to bind keyboard keys to actions (1 week ago)
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin to sync element properties with reactive signals (1 week ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (3 weeks ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) - Datastar plugin to bind keyboard keys to actions (2 weeks ago)
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin to sync element properties with reactive signals (2 weeks ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (4 weeks ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 months ago)
 
@@ -45,9 +45,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.90.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.90.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 1 week ago) - Datastar plugin to bind keyboard keys to actions
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 2 weeks ago) - Datastar plugin to sync element properties with reactive signals
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.90.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.90.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 2 weeks ago) - Datastar plugin to bind keyboard keys to actions
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 3 weeks ago) - Datastar plugin to sync element properties with reactive signals
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.6](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.6), 1 month ago) - The hypermedia framework.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v0.4.0](https://github.com/mbolli/nfsen-ng/releases/tag/v0.4.0), 1 month ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 
@@ -68,11 +68,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [go-via/via](https://github.com/go-via/via) - Real-time engine for building reactive web applications in pure Go. (1 week ago)
+- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (2 days ago)
+- [go-via/via](https://github.com/go-via/via) - Real-time engine for building reactive web applications in pure Go. (2 weeks ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 month ago)
 - [alvarolm/datastar-resources](https://github.com/alvarolm/datastar-resources) -  (1 month ago)
 - [wilaak/datastar-swoole](https://github.com/wilaak/datastar-swoole) - Datastar SDK for Swoole PHP (3 months ago)
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
