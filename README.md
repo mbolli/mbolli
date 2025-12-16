@@ -29,7 +29,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) - Datastar plugin to bind keyboard keys to actions (1 month ago)
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin to sync element properties with reactive signals (1 month ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (1 month ago)
@@ -45,7 +45,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 1 month ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 1 month ago) - Datastar plugin to sync element properties with reactive signals
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.6](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.6), 1 month ago) - The hypermedia framework.
@@ -68,8 +68,8 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (6 days ago)
-- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (2 weeks ago)
+- [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (1 week ago)
+- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (3 weeks ago)
 - [go-via/via](https://github.com/go-via/via) - Real-time engine for building reactive web applications in pure Go. (1 month ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 month ago)
 - [alvarolm/datastar-resources](https://github.com/alvarolm/datastar-resources) -  (2 months ago)
