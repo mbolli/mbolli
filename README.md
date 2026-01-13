@@ -29,11 +29,11 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 day ago)
+- [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) - PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (3 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) - Datastar plugin to bind keyboard keys to actions (2 months ago)
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin to sync element properties with reactive signals (2 months ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools. (2 months ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,19 +45,19 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 2 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 3 weeks ago) - The hypermedia framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 3 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 4 weeks ago) - The hypermedia framework.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 2 months ago) - Datastar plugin to sync element properties with reactive signals
 
 #### 🔨 My recent Pull Requests
 
+- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (2 days ago)
+- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 days ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (2 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 months ago)
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (8 months ago)
-- [Fix PDOStatement getIterator stub type](https://github.com/phpstan/phpstan-src/pull/3974) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (8 months ago)
-- [Migrate to PHPUnit v11](https://github.com/nekofar/slim-test/pull/172) on [nekofar/slim-test](https://github.com/nekofar/slim-test) (10 months ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### ⭐ Recent Stars
 
-- [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (2 weeks ago)
+- [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (3 weeks ago)
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (1 month ago)
 - [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (1 month ago)
 - [go-via/via](https://github.com/go-via/via) - Real-time engine for building reactive web applications in pure Go. (2 months ago)
