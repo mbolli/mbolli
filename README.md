@@ -29,9 +29,9 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 👷 Check out what I'm currently working on
 
-- [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (1 day ago)
-- [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) - PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (3 days ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
+- [zweiundeins/.github](https://github.com/zweiundeins/.github) -  (4 days ago)
+- [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) - PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (6 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) - Datastar plugin to bind keyboard keys to actions (2 months ago)
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) - Datastar plugin to sync element properties with reactive signals (2 months ago)
 
@@ -45,16 +45,16 @@ I’m mainly working on PHP 8 projects and web pages using a self-made framework
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 3 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 4 weeks ago) - The hypermedia framework.
+- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 1 month ago) - The hypermedia framework.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 2 months ago) - Datastar plugin to sync element properties with reactive signals
 
 #### 🔨 My recent Pull Requests
 
-- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (2 days ago)
-- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 days ago)
+- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (5 days ago)
+- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (6 days ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (2 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 months ago)
 - [fix twig `ExpressionParser` being deprecated with v3.21](https://github.com/putyourlightson/craft-datastar-module/pull/5) on [putyourlightson/craft-datastar-module](https://github.com/putyourlightson/craft-datastar-module) (8 months ago)
