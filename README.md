@@ -42,7 +42,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (1 day ago)
+- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (2 days ago)
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (1 week ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) —  (2 weeks ago)
 - [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) — PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (3 weeks ago)
@@ -58,7 +58,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.93.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.1), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.93.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.1), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 1 week ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 1 month ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 1 month ago) - The hypermedia framework.
@@ -66,7 +66,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔨 Recent pull requests
 
-- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (2 weeks ago)
+- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (3 weeks ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 weeks ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (3 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 months ago)
