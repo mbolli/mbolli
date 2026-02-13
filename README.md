@@ -43,8 +43,8 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 ### 👷 What I’m currently working on
 
 - [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (1 week ago)
-- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (2 weeks ago)
-- [zweiundeins/.github](https://github.com/zweiundeins/.github) —  (4 weeks ago)
+- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (3 weeks ago)
+- [zweiundeins/.github](https://github.com/zweiundeins/.github) —  (1 month ago)
 - [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) — PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (1 month ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 month ago)
 
@@ -58,11 +58,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.93.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 2 weeks ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 3 weeks ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 1 month ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [starfederation/datastar](https://github.com/starfederation/datastar) ([v1.0.0-RC.7](https://github.com/starfederation/datastar/releases/tag/v1.0.0-RC.7), 1 month ago) - The hypermedia framework.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 3 months ago) - Datastar plugin to sync element properties with reactive signals
 
 ### 🔨 Recent pull requests
 
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (2 weeks ago)
+- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (3 weeks ago)
 - [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (1 month ago)
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (2 months ago)
 - [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (2 months ago)
