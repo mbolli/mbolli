@@ -58,7 +58,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 3 weeks ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 1 month ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
