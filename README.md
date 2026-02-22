@@ -42,9 +42,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) — Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (3 days ago)
+- [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) — Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (6 days ago)
 - [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (2 weeks ago)
-- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (3 weeks ago)
+- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (1 month ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) —  (1 month ago)
 - [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) — PSR-7 &amp; PSR-15 middleware to add  the Server-Timing header (1 month ago)
 
@@ -58,15 +58,15 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 3 weeks ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 1 month ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.1.0](https://github.com/mbolli/php-via/releases/tag/v0.1.0), 2 months ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.6](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.6), 3 months ago) - Datastar plugin to sync element properties with reactive signals
 
 ### 🔨 Recent pull requests
 
-- [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (3 days ago)
+- [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (6 days ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (1 month ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (1 month ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (3 months ago)
@@ -81,10 +81,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (4 weeks ago)
-- [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (1 month ago)
+- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (1 month ago)
+- [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (2 months ago)
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (2 months ago)
-- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (2 months ago)
+- [1rhino2/go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer) - Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. (3 months ago)
 - [go-via/via](https://github.com/go-via/via) - Real-time engine for building reactive web applications in pure Go. (3 months ago)
 
 ### ❤️ Sponsors
