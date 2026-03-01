@@ -42,7 +42,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (3 days ago)
+- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (4 days ago)
 - [mbolli/cashctrl-google-sheets](https://github.com/mbolli/cashctrl-google-sheets) — Track your time in Google Sheets and automatically generate CashCtrl orders with a single command (1 week ago)
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (1 month ago)
 - [zweiundeins/.github](https://github.com/zweiundeins/.github) —  (1 month ago)
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware. (5 days ago)
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware. (6 days ago)
 - [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (1 month ago)
 - [fastserial/lite3](https://github.com/fastserial/lite3) - A JSON-Compatible Zero-Copy Serialization Format (2 months ago)
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP (2 months ago)
