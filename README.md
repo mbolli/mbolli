@@ -42,9 +42,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (1 week ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (2 weeks ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (2 weeks ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (3 weeks ago)
 - [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (3 weeks ago)
 - [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (1 month ago)
 
@@ -58,9 +58,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 1 week ago) - PHP library for the geobuf compact geospatial format.
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.5.0](https://github.com/mbolli/php-via/releases/tag/v0.5.0), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.1](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.1), 2 weeks ago) - Datastar plugin to bind keyboard keys to actions
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.6.0](https://github.com/mbolli/php-via/releases/tag/v0.6.0), 2 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 2 weeks ago) - PHP library for the geobuf compact geospatial format.
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.1](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.1), 3 weeks ago) - Datastar plugin to bind keyboard keys to actions
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 2 months ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 
@@ -68,7 +68,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (1 month ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (2 months ago)
-- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (2 months ago)
+- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 months ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (5 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 months ago)
 
