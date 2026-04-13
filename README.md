@@ -42,10 +42,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (3 days ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (2 weeks ago)
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (3 weeks ago)
-- [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (3 weeks ago)
+- [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (4 weeks ago)
 - [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (1 month ago)
 
 ### 🌱 Recent projects
@@ -58,16 +58,16 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.6.0](https://github.com/mbolli/php-via/releases/tag/v0.6.0), 2 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.7.0](https://github.com/mbolli/php-via/releases/tag/v0.7.0), 3 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 2 weeks ago) - PHP library for the geobuf compact geospatial format.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.1.1](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.1.1), 3 weeks ago) - Datastar plugin to bind keyboard keys to actions
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-timeline](https://github.com/mbolli/php-timeline) ([v0.1.0](https://github.com/mbolli/php-timeline/releases/tag/v0.1.0), 2 months ago) - High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications.
 
 ### 🔨 Recent pull requests
 
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (1 month ago)
-- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (2 months ago)
+- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (3 months ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 months ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (5 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 months ago)
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (2 weeks ago)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 weeks ago)
 - [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ (1 month ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (1 month ago)
 - [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (2 months ago)
