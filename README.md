@@ -42,9 +42,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (2 days ago)
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) — Datastar plugin to sync element properties with reactive signals (2 days ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (5 days ago)
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) — Datastar plugin to sync element properties with reactive signals (5 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (3 weeks ago)
 - [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (1 month ago)
 
@@ -58,7 +58,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 days ago) - Datastar plugin to bind keyboard keys to actions
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 5 days ago) - Datastar plugin to bind keyboard keys to actions
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.7.0](https://github.com/mbolli/php-via/releases/tag/v0.7.0), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 3 weeks ago) - PHP library for the geobuf compact geospatial format.
@@ -81,11 +81,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 days ago)
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (4 weeks ago)
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - DTP-grade advanced layout engine in pure TypeScript. Super fast and tiny. Forget HarfBuzz and headless browser. NOT a toy -- this is the real deal, based on a patent-pending architecture. (1 month ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (6 days ago)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (1 month ago)
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - A blazing-fast, DTP-grade layout engine built entirely in TypeScript. Move over HarfBuzz and headless browsers; this is the real deal. You can finally build the software you’ve always dreamed of, but never thought possible. (1 month ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (1 month ago)
-- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (2 months ago)
+- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (3 months ago)
 
 ### ❤️ Sponsors
 
