@@ -42,10 +42,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (3 days ago)
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) — Datastar plugin to sync element properties with reactive signals (1 week ago)
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (2 weeks ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 days ago)
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) — Datastar plugin to sync element properties with reactive signals (2 weeks ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (3 weeks ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (1 month ago)
 
 ### 🌱 Recent projects
@@ -58,17 +58,17 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 3 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.8.0](https://github.com/mbolli/php-via/releases/tag/v0.8.0), 3 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 weeks ago) - Datastar plugin to bind keyboard keys to actions
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), 3 weeks ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 6 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.8.0](https://github.com/mbolli/php-via/releases/tag/v0.8.0), 6 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 3 weeks ago) - Datastar plugin to bind keyboard keys to actions
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 1 month ago) - PHP library for the geobuf compact geospatial format.
 
 ### 🔨 Recent pull requests
 
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (2 months ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (3 months ago)
-- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (3 months ago)
+- [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (4 months ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (6 months ago)
 - [UX: Warn if executed php version is higher than the minimum php version defined in composer.json](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9134) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (7 months ago)
 
@@ -81,11 +81,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
+- [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (2 days ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 weeks ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (1 month ago)
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - If you don&#39;t know what a layout engine is then this is probably not for you. But if you do, then this is the fastest, most capable, DTP-grade, coolest layout engine on earth. It&#39;s written in pure JavaScript, and it runs circles around the best ones written in C&#43;&#43; because it&#39;s powered by game engine tech! (2 months ago)
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It&#39;s faster than engines written in C&#43;&#43; because it&#39;s not traditional. Backed by game engine tech, it has a microkernel and runs a spatial-temporal simulation instead of a giant complex pagination loop. (2 months ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (2 months ago)
-- [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar. (3 months ago)
 
 ### ❤️ Sponsors
 
