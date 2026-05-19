@@ -42,10 +42,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (4 days ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (4 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 week ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) — Datastar plugin to sync element properties with reactive signals (3 weeks ago)
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (4 weeks ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) — Datastar plugin to bind keyboard keys to actions (1 month ago)
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) — PHP library for the geobuf compact geospatial format. (1 month ago)
 
 ### 🌱 Recent projects
@@ -58,15 +58,15 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.9.0](https://github.com/mbolli/php-via/releases/tag/v0.9.0), 4 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 4 weeks ago) - Datastar plugin to bind keyboard keys to actions
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.9.0](https://github.com/mbolli/php-via/releases/tag/v0.9.0), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 1 month ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 1 month ago) - PHP library for the geobuf compact geospatial format.
 
 ### 🔨 Recent pull requests
 
-- [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (2 months ago)
+- [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (3 months ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (4 months ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (4 months ago)
 - [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (6 months ago)
