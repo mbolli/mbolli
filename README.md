@@ -42,11 +42,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (1 day ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
-- [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (4 days ago)
-- [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (4 days ago)
-- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) — RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron). (4 days ago)
+- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (4 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
+- [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (1 week ago)
+- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) — RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron). (1 week ago)
+- [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (1 week ago)
 
 ### 🌱 Recent projects
 
@@ -58,8 +58,8 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.8](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.8), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.10.1](https://github.com/mbolli/php-via/releases/tag/v0.10.1), 4 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.10.1](https://github.com/mbolli/php-via/releases/tag/v0.10.1), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 1 month ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 2 months ago) - PHP library for the geobuf compact geospatial format.
