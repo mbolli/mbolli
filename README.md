@@ -42,7 +42,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (1 day ago)
+- [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (4 days ago)
 - [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (1 week ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
 - [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (1 week ago)
@@ -58,7 +58,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.10.1](https://github.com/mbolli/php-via/releases/tag/v0.10.1), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 1 month ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
@@ -66,11 +66,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔨 Recent pull requests
 
-- [docs: add mbolli/php-ron to implementations list](https://github.com/starfederation/ron/pull/23) on [starfederation/ron](https://github.com/starfederation/ron) (1 day ago)
+- [docs: add mbolli/php-ron to implementations list](https://github.com/starfederation/ron/pull/23) on [starfederation/ron](https://github.com/starfederation/ron) (4 days ago)
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (4 months ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (5 months ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (5 months ago)
-- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (7 months ago)
+- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (8 months ago)
 
 ### 📓 Gists
 
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (1 week ago)
+- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (2 weeks ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (1 month ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 months ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 months ago)
