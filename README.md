@@ -43,7 +43,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 ### 👷 What I’m currently working on
 
 - [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (1 week ago)
-- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (1 week ago)
+- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (2 weeks ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 weeks ago)
 - [mbolli/tempest-highlight-datastar](https://github.com/mbolli/tempest-highlight-datastar) — Datastar syntax highlighting for tempest/highlight — Adds HTML attribute, expression, signal &amp; action token support for Datastar to the Tempest Highlight code highlighter. Includes Twig integration. (2 weeks ago)
 - [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) — RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron). (2 weeks ago)
@@ -58,9 +58,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.10.1](https://github.com/mbolli/php-via/releases/tag/v0.10.1), 2 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 1 month ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-RC.1](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-RC.1), 2 months ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
 - [mbolli/php-geobuf](https://github.com/mbolli/php-geobuf) ([v0.3.0](https://github.com/mbolli/php-geobuf/releases/tag/v0.3.0), 3 months ago) - PHP library for the geobuf compact geospatial format.
 
@@ -81,11 +81,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (2 weeks ago)
+- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (3 weeks ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (1 month ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 months ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 months ago)
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It&#39;s faster than engines written in C&#43;&#43; because it&#39;s not traditional. Backed by game engine tech, it has a microkernel and runs a spatial-temporal simulation instead of a giant complex pagination loop. (3 months ago)
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It&#39;s faster than engines written in C&#43;&#43; because it&#39;s not traditional. Backed by game engine tech, it has a microkernel and runs a spatial-temporal simulation instead of a giant complex pagination loop. (4 months ago)
 
 ### ❤️ Sponsors
 
