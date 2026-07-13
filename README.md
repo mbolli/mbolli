@@ -42,9 +42,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 days ago)
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (6 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (4 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (1 week ago)
 - [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (2 weeks ago)
 - [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (3 weeks ago)
 
@@ -58,10 +58,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.2](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.2), 2 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 2 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.12](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.12), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.0](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.0), 6 days ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.13](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.13), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.2](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.2), 5 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 5 days ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.0](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.0), 1 week ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 2 months ago) - Datastar plugin to bind keyboard keys to actions
 
 ### 🔨 Recent pull requests
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (4 weeks ago)
+- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (1 month ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (2 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 months ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 months ago)
