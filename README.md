@@ -42,11 +42,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (2 days ago)
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (5 days ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 week ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
 - [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (3 weeks ago)
-- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (4 weeks ago)
+- [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL. (1 month ago)
 
 ### 🌱 Recent projects
 
@@ -58,8 +58,8 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 2 days ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 5 days ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.2](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.2), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 1 week ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
@@ -84,7 +84,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 - [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (1 month ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (2 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 months ago)
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 months ago)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (4 months ago)
 - [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It&#39;s faster than engines written in C&#43;&#43; because it&#39;s not traditional. Backed by game engine tech, it has a microkernel and runs a spatial-temporal simulation instead of a giant complex pagination loop. (4 months ago)
 
 ### ❤️ Sponsors
