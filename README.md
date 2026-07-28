@@ -42,11 +42,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (5 days ago)
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (1 week ago)
+- [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (1 day ago)
+- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (1 week ago)
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (2 weeks ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 weeks ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (2 weeks ago)
-- [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs) (1 month ago)
 
 ### 🌱 Recent projects
 
@@ -58,8 +58,8 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 1 week ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 2 weeks ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.2](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.2), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 2 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
@@ -70,7 +70,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (5 months ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (6 months ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (6 months ago)
-- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (8 months ago)
+- [v1 preview](https://github.com/mbolli/nfsen-ng/pull/140) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (9 months ago)
 
 ### 📓 Gists
 
@@ -81,7 +81,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### ⭐ Recently starred
 
-- [Bobowski/stario](https://github.com/Bobowski/stario) - Bringing back joy of building web applications. (5 days ago)
+- [Bobowski/stario](https://github.com/Bobowski/stario) - Bringing back joy of building web applications. (1 week ago)
 - [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (1 month ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (2 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 months ago)
