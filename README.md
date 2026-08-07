@@ -42,27 +42,27 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
+- [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (2 days ago)
 - [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (1 week ago)
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (2 weeks ago)
 - [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (3 weeks ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (3 weeks ago)
 
 ### 🌱 Recent projects
 
+- [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop
 - [mbolli/dock-vscode-projects](https://github.com/mbolli/dock-vscode-projects) — Open and favourite VS Code projects as a live strip in the PowerToys Command Palette Dock. Local and WSL.
 - [mbolli/php-ron-playground](https://github.com/mbolli/php-ron-playground) — 
 - [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) — RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
 - [mbolli/php-ron](https://github.com/mbolli/php-ron) — PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
-- [mbolli/clj-chess](https://github.com/mbolli/clj-chess) — Real-time multiplayer chess in Clojure. Hypermedia-driven: server renders all HTML, browser receives DOM patches over Brotli-compressed SSE. CQRS &#43; event sourcing via grain-datastar. No client-side state machine, no JSON API, no hydration. Stack: Pedestal · Grain · Datastar · SQLite.
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.3](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.3), 5 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/cometail](https://github.com/mbolli/cometail) ([v0.1.0](https://github.com/mbolli/cometail/releases/tag/v0.1.0), 2 days ago) - Tailscale applet for the COSMIC desktop
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.3](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.3), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 3 weeks ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 3 weeks ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.0), 3 months ago) - Datastar plugin to bind keyboard keys to actions
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.12.0](https://github.com/mbolli/php-via/releases/tag/v0.12.0), 1 month ago) - Real-time engine for building reactive web applications in PHP with Swoole.
 
 ### 🔨 Recent pull requests
 
@@ -83,7 +83,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 - [Bobowski/stario](https://github.com/Bobowski/stario) - Bringing back joy of building web applications. (2 weeks ago)
 - [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (1 month ago)
-- [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (2 months ago)
+- [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (3 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 months ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (4 months ago)
 
