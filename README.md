@@ -43,7 +43,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 ### 👷 What I’m currently working on
 
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (1 week ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 week ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 weeks ago)
 - [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (2 weeks ago)
 - [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (3 weeks ago)
 - [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (1 month ago)
@@ -58,7 +58,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.19](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.19), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.4](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.4), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 1 week ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
 - [mbolli/cometail](https://github.com/mbolli/cometail) ([v0.1.0](https://github.com/mbolli/cometail/releases/tag/v0.1.0), 2 weeks ago) - Tailscale applet for the COSMIC desktop
