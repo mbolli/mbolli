@@ -42,10 +42,10 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (1 week ago)
+- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (2 weeks ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 weeks ago)
 - [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (2 weeks ago)
-- [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (3 weeks ago)
+- [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (4 weeks ago)
 - [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) — Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (1 month ago)
 
 ### 🌱 Recent projects
@@ -58,16 +58,16 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.22](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.22), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.4](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.4), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 1 week ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
+- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 2 weeks ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
 - [mbolli/cometail](https://github.com/mbolli/cometail) ([v0.1.0](https://github.com/mbolli/cometail/releases/tag/v0.1.0), 2 weeks ago) - Tailscale applet for the COSMIC desktop
 - [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 1 month ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
 
 ### 🔨 Recent pull requests
 
-- [Track Payrexx&#39;s August 2026 ECR rewrite](https://github.com/zweiundeins/payrexx-go-sdk/pull/3) on [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) (1 week ago)
-- [docs: add mbolli/php-ron to implementations list](https://github.com/starfederation/ron/pull/23) on [starfederation/ron](https://github.com/starfederation/ron) (1 month ago)
+- [Track Payrexx&#39;s August 2026 ECR rewrite](https://github.com/zweiundeins/payrexx-go-sdk/pull/3) on [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) (2 weeks ago)
+- [docs: add mbolli/php-ron to implementations list](https://github.com/starfederation/ron/pull/23) on [starfederation/ron](https://github.com/starfederation/ron) (2 months ago)
 - [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (6 months ago)
 - [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (7 months ago)
 - [Fix PHP 8.4 deprecation, update dependencies, update min PHP to 8.1](https://github.com/tuupola/server-timing-middleware/pull/31) on [tuupola/server-timing-middleware](https://github.com/tuupola/server-timing-middleware) (7 months ago)
