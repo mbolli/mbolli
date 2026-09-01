@@ -42,8 +42,8 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (5 days ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (6 days ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (6 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 week ago)
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (3 weeks ago)
 - [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (3 weeks ago)
 - [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (1 month ago)
@@ -58,19 +58,19 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 1 day ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
+- [mbolli/php-ron](https://github.com/mbolli/php-ron) ([v0.5.0](https://github.com/mbolli/php-ron/releases/tag/v0.5.0), 1 day ago) - PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.4](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.4), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 2 weeks ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
-- [mbolli/cometail](https://github.com/mbolli/cometail) ([v0.1.0](https://github.com/mbolli/cometail/releases/tag/v0.1.0), 3 weeks ago) - Tailscale applet for the COSMIC desktop
-- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk) ([v0.1.1](https://github.com/zweiundeins/wallee-go-sdk/releases/tag/v0.1.1), 1 month ago) - Go SDK for the Wallee (wallee.com) payment API — generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth.
+- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 3 weeks ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
 
 ### 🔨 Recent pull requests
 
-- [feat: make the geolocation endpoint configurable via NFSEN_IPINFO_URL (#163)](https://github.com/mbolli/nfsen-ng/pull/164) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (6 days ago)
+- [Graph through an nfdump filter, and an Investigate view that pairs it with the flow table](https://github.com/mbolli/nfsen-ng/pull/169) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (1 day ago)
+- [docs: php-ron implements RON v1 escapes and the set vocabulary](https://github.com/starfederation/ron/pull/42) on [starfederation/ron](https://github.com/starfederation/ron) (1 day ago)
+- [feat!: implement RON spec v0.4.0 (escapes, output modes, canonical RON)](https://github.com/mbolli/php-ron/pull/4) on [mbolli/php-ron](https://github.com/mbolli/php-ron) (1 day ago)
+- [feat: make the geolocation endpoint configurable via NFSEN_IPINFO_URL (#163)](https://github.com/mbolli/nfsen-ng/pull/164) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (1 week ago)
 - [Track Payrexx&#39;s August 2026 ECR rewrite](https://github.com/zweiundeins/payrexx-go-sdk/pull/3) on [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) (3 weeks ago)
-- [docs: add mbolli/php-ron to implementations list](https://github.com/starfederation/ron/pull/23) on [starfederation/ron](https://github.com/starfederation/ron) (2 months ago)
-- [Configurable adapter factory](https://github.com/mbolli/phoenix/pull/2) on [mbolli/phoenix](https://github.com/mbolli/phoenix) (6 months ago)
-- [Configurable adapter factory](https://github.com/lulco/phoenix/pull/306) on [lulco/phoenix](https://github.com/lulco/phoenix) (7 months ago)
 
 ### 📓 Gists
 
