@@ -44,7 +44,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 - [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 week ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 week ago)
-- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (3 weeks ago)
+- [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (4 weeks ago)
 - [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (1 month ago)
 - [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk) — Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (1 month ago)
 
@@ -58,19 +58,19 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 4 days ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
-- [mbolli/php-ron](https://github.com/mbolli/php-ron) ([v0.5.0](https://github.com/mbolli/php-ron/releases/tag/v0.5.0), 4 days ago) - PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 1 week ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
+- [mbolli/php-ron](https://github.com/mbolli/php-ron) ([v0.5.0](https://github.com/mbolli/php-ron/releases/tag/v0.5.0), 1 week ago) - PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.4](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.4), 3 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) ([v0.2.0](https://github.com/zweiundeins/payrexx-go-sdk/releases/tag/v0.2.0), 3 weeks ago) - Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification.
 
 ### 🔨 Recent pull requests
 
-- [Graph through an nfdump filter, and an Investigate view that pairs it with the flow table](https://github.com/mbolli/nfsen-ng/pull/169) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (4 days ago)
-- [docs: php-ron implements RON v1 escapes and the set vocabulary](https://github.com/starfederation/ron/pull/42) on [starfederation/ron](https://github.com/starfederation/ron) (4 days ago)
-- [feat!: implement RON spec v0.4.0 (escapes, output modes, canonical RON)](https://github.com/mbolli/php-ron/pull/4) on [mbolli/php-ron](https://github.com/mbolli/php-ron) (4 days ago)
+- [Graph through an nfdump filter, and an Investigate view that pairs it with the flow table](https://github.com/mbolli/nfsen-ng/pull/169) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (1 week ago)
+- [docs: php-ron implements RON v1 escapes and the set vocabulary](https://github.com/starfederation/ron/pull/42) on [starfederation/ron](https://github.com/starfederation/ron) (1 week ago)
+- [feat!: implement RON spec v0.4.0 (escapes, output modes, canonical RON)](https://github.com/mbolli/php-ron/pull/4) on [mbolli/php-ron](https://github.com/mbolli/php-ron) (1 week ago)
 - [feat: make the geolocation endpoint configurable via NFSEN_IPINFO_URL (#163)](https://github.com/mbolli/nfsen-ng/pull/164) on [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) (1 week ago)
-- [Track Payrexx&#39;s August 2026 ECR rewrite](https://github.com/zweiundeins/payrexx-go-sdk/pull/3) on [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) (3 weeks ago)
+- [Track Payrexx&#39;s August 2026 ECR rewrite](https://github.com/zweiundeins/payrexx-go-sdk/pull/3) on [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) (4 weeks ago)
 
 ### 📓 Gists
 
@@ -83,7 +83,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 - [Bobowski/stario](https://github.com/Bobowski/stario) - Bringing back joy of building web applications. (1 month ago)
 - [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (2 months ago)
-- [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (3 months ago)
+- [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (4 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (4 months ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (5 months ago)
 
