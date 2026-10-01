@@ -42,9 +42,9 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (3 days ago)
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) — Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (3 days ago)
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 month ago)
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) — Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (1 day ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (2 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (6 days ago)
 - [zweiundeins/payrexx-go-sdk](https://github.com/zweiundeins/payrexx-go-sdk) — Go SDK for the Payrexx (payrexx.com) payment API: generated from an OpenAPI spec assembled from Payrexx&#39;s own docs, plus hand-written auth and webhook verification. (1 month ago)
 - [mbolli/cometail](https://github.com/mbolli/cometail) — Tailscale applet for the COSMIC desktop (1 month ago)
 
@@ -58,19 +58,19 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.4.0](https://github.com/zweiundeins/starbase/releases/tag/v0.4.0), 3 days ago) - Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.5](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.5), 1 week ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 4 weeks ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
-- [mbolli/php-ron](https://github.com/mbolli/php-ron) ([v0.5.0](https://github.com/mbolli/php-ron/releases/tag/v0.5.0), 4 weeks ago) - PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.5.0](https://github.com/zweiundeins/starbase/releases/tag/v0.5.0), 2 days ago) - Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.5](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.5), 2 weeks ago) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 1 month ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
+- [mbolli/php-ron](https://github.com/mbolli/php-ron) ([v0.5.0](https://github.com/mbolli/php-ron/releases/tag/v0.5.0), 1 month ago) - PHP implementation of RON (Readable Object Notation): JSON&#39;s value model with lighter syntax (for humans and LLMs)
 
 ### 🔨 Recent pull requests
 
-- [sb-echarts: a missing value is &#39;-&#39;, and empty tooltip rows are left out](https://github.com/zweiundeins/starbase/pull/32) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (5 days ago)
-- [sb-odometer: drum digits sit in the middle of their faces](https://github.com/zweiundeins/starbase/pull/31) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (5 days ago)
-- [Add &lt;sb-echarts&gt;: Apache ECharts driven by server-sent options](https://github.com/zweiundeins/starbase/pull/30) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (5 days ago)
-- [Dev manifest publisher: load every component, so the wait can end](https://github.com/zweiundeins/starbase/pull/29) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (5 days ago)
-- [sb-theme-change carries the scheme; sparkline and gauge repaint on it](https://github.com/zweiundeins/starbase/pull/28) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (5 days ago)
+- [Add sb-data-table: a data table with server-driven virtual scroll](https://github.com/zweiundeins/starbase/pull/39) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 days ago)
+- [Add sb-virtual-scroll: a list of any length, rendered window by window by the server](https://github.com/zweiundeins/starbase/pull/38) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 days ago)
+- [Add sb-popover: a floating panel anchored to a trigger](https://github.com/zweiundeins/starbase/pull/37) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 days ago)
+- [Add sb-date-picker: a date field with a calendar](https://github.com/zweiundeins/starbase/pull/36) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 days ago)
+- [Add sb-checkbox and sb-checkbox-group: a pixel checkbox and a group of them](https://github.com/zweiundeins/starbase/pull/35) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 days ago)
 
 ### 📓 Gists
 
