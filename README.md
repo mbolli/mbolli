@@ -42,11 +42,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 👷 What I’m currently working on
 
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container) — Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 day ago)
 - [zweiundeins/starbase](https://github.com/zweiundeins/starbase) — Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (1 day ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) — Real-time engine for building reactive web applications in PHP with Swoole. (1 day ago)
-- [mbolli/php-timeline](https://github.com/mbolli/php-timeline) — High-performance PHP timeline app built with Swoole, Mezzio &amp; Datastar. Real-time multiplayer via SSE, CQRS architecture, PSR-7/PSR-15 middleware. A reference implementation for building modern PHP applications. (2 days ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) — Responsive NetFlow visualizer built on top of nfdump tools. (2 days ago)
-- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot) — PHP/Swoole/Datastar port of Vercel’s AI Chatbot (2 days ago)
+- [zweiundeins/kanban](https://github.com/zweiundeins/kanban) —  (2 days ago)
 
 ### 🌱 Recent projects
 
@@ -58,19 +58,19 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ### 🔭 Recent releases I've contributed to
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.1](https://github.com/mbolli/php-via/releases/tag/v0.14.1), 1 day ago) - Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.6](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.6), 2 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.6.0](https://github.com/zweiundeins/starbase/releases/tag/v0.6.0), 6 days ago) - Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.2](https://github.com/mbolli/php-via/releases/tag/v0.14.2), 1 day ago) - Real-time engine for building reactive web applications in PHP with Swoole.
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.7.0](https://github.com/zweiundeins/starbase/releases/tag/v0.7.0), 3 days ago) - Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.6](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.6), 5 days ago) - Responsive NetFlow visualizer built on top of nfdump tools.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 1 month ago) - RON (Readable Object Notation) syntax highlighting for tempest/highlight — parser-backed, role-aware highlighting of keys, values, numbers, literals &amp; structure via the real RON parser (mbolli/php-ron).
 
 ### 🔨 Recent pull requests
 
-- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 day ago)
-- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 day ago)
-- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 day ago)
-- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 day ago)
-- [Add sb-kanban-board: lanes of cards to drag or move with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/47) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 day ago)
+- [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (1 day ago)
+- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 days ago)
+- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 days ago)
+- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 days ago)
+- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 days ago)
 
 ### 📓 Gists
 
@@ -83,7 +83,7 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 - [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper) - Opensource Eink bike computer (1 month ago)
 - [Bobowski/stario](https://github.com/Bobowski/stario) - Bringing back joy of building web applications. (2 months ago)
-- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (3 months ago)
+- [starfederation/ron](https://github.com/starfederation/ron) - Readable Object Notation  (4 months ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (5 months ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (5 months ago)
 
