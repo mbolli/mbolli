@@ -1,58 +1,55 @@
 ## Hi, I’m Michael 👋
 
-I’m a **self-employed software engineer from Switzerland** 🇨🇭, running  
-👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)** — where I help companies and IT teams build and simplify web applications.
+I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run 👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)**. I help companies cut the cost of over-engineered web stacks and make their applications usable by AI agents.
 
-My current focus:
-- **Reducing complexity in existing web applications**
-- Backend & application architecture
-- Identifying and removing unnecessary SPA / API layers
-- Server-driven, hypermedia-based systems (Datastar, SSE streaming, events, HTML APIs)
+What I work on:
+- **Simplifying existing web applications**: off microservices, serverless and needless SPA / API layers, step by step
+- **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file
+- **MCP servers** that let AI assistants work with an existing application, read-only unless writes are switched on
+- **Agentic development**: building with coding agents, with the quality kept under control
 
-If your web application is **costly to maintain and increasingly complex**, I help **remove unnecessary complexity** — so it becomes stable, understandable, and cheaper to evolve.
+I measure before I claim: [kanban](https://github.com/zweiundeins/kanban) and [ai-chatbot](https://github.com/mbolli/ai-chatbot) come with every script and all raw data.
 
-*Most of my work is private client work — this profile shows selected open-source projects and experiments.*
+*Most of my work is private client work. This profile shows selected open-source projects and experiments.*
 
 ---
 
-### Tools I use to reduce complexity
+### Tools I use
 
-The tools obviously matter less than the outcome — clarity, simplicity and long-term maintainability.
+The outcome matters more than the tools: software that stays clear, simple and cheap to maintain.
 
-- **PHP** (async w/ Swoole, Mezzio, Slim, Twig, DI, JWT, strictly typed), occasionally Go and Python
-- **Databases**: MySQL/MariaDB, SQLite
-- **Frontend**: ES6 / TypeScript, HTML, CSS/Sass (Bulma, Open Props)
-- **Build & tooling**: ESBuild, phpstan, php-cs-fixer
-- **Approach**: server-centric, streaming, minimal client state (Datastar, SSE)
+- **Go** (templ, SQLite) and **PHP** (async with OpenSwoole, Mezzio, Slim, Twig, strictly typed), occasionally Python
+- **Databases**: SQLite, MySQL/MariaDB
+- **Frontend**: HTML, plain CSS, TypeScript, Datastar instead of a frontend framework
+- **Tooling**: esbuild, phpstan, php-cs-fixer, coding agents
+- **Approach**: server-centric, streaming, minimal client state
 
-I occasionally touch React or Vue or other SPAs — but usually when migrating away from them 😉.
+I occasionally touch React, Vue or other SPAs, usually while migrating away from them 😉.
 
 ---
 
 ### Background (short version)
 
 - BSc in Computer Science (IT Security major)
-- Recently back from a [16 month roadtrip](https://unterwegs.2und1.ch) through Scandinavia, Baltic, Balkan, around the Black Sea and Caucasus in a ’92 Mercedes T1 310 4x4 🚒
+- [16 months on the road](https://unterwegs.2und1.ch) in 2021 and 2022: Scandinavia, the Baltics, the Balkans, around the Black Sea and through the Caucasus in a ’92 Mercedes T1 310 4x4 🚒
 - Married, father of two
 - Outside of code: cycling 🚴, running 🏃, photography 📷, cars 🚗, music 🎶
-
-PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 
 ---
 
 ### 👷 What I’m currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}}: {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 ### 🌱 Recent projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) — {{.Description}}
+- [{{.Name}}]({{.URL}}){{with .Description}}: {{.}}{{end}}
 {{- end}}
 
-### 🔭 Recent releases I've contributed to
+### 🔭 Recent releases I’ve contributed to
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}}: {{.}}{{end}}
 {{- end}}
 
 ### 🔨 Recent pull requests
@@ -61,16 +58,11 @@ PGP key: [keybase.io/mbolli](https://keybase.io/mbolli)
 {{- end}}
 
 ### 📓 Gists
-{{range gists 5}}
+{{range gists 5}}{{if .Description}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{- end}}{{end}}
 
 ### ⭐ Recently starred
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-### ❤️ Sponsors
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}}: {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end}}
