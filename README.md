@@ -39,7 +39,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/.github](https://github.com/zweiundeins/.github) (today)
+- [zweiundeins/.github](https://github.com/zweiundeins/.github): Organisation profile of zwei und eins gmbh: our services and open-source projects. (today)
 - [starfederation/datastar-php](https://github.com/starfederation/datastar-php): Official Datastar PHP SDK. (2 days ago)
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (2 days ago)
 - [zweiundeins/starbase](https://github.com/zweiundeins/starbase): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (3 days ago)
