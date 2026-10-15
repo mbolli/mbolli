@@ -4,7 +4,7 @@ I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run �
 
 What I work on:
 - **Simplifying existing web applications**: off microservices, serverless and needless SPA / API layers, step by step
-- **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file
+- **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file. In Go on [lith](https://github.com/zweiundeins/lith), our runtime for these apps; in PHP on [php-via](https://github.com/mbolli/php-via)
 - **MCP servers** that let AI assistants work with an existing application, read-only unless writes are switched on
 - **Agentic development**: building with coding agents, with the quality kept under control
 
@@ -18,7 +18,7 @@ I measure before I claim: [kanban](https://github.com/zweiundeins/kanban) and [a
 
 The outcome matters more than the tools: software that stays clear, simple and cheap to maintain.
 
-- **Go** (templ, SQLite) and **PHP** (async with OpenSwoole, Mezzio, Slim, Twig, strictly typed), occasionally Python
+- **Go** (templ, SQLite, lith) and **PHP** (async with OpenSwoole and php-via, Mezzio, Slim, Twig, strictly typed), occasionally Python
 - **Databases**: SQLite, MySQL/MariaDB
 - **Frontend**: HTML, plain CSS, TypeScript, Datastar instead of a frontend framework
 - **Tooling**: esbuild, phpstan, php-cs-fixer, coding agents
@@ -31,7 +31,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### Background (short version)
 
 - BSc in Computer Science (IT Security major)
-- [16 months on the road](https://unterwegs.2und1.ch) in 2021 and 2022: Scandinavia, the Baltics, the Balkans, around the Black Sea and through the Caucasus in a ’92 Mercedes T1 310 4x4 🚒
+- [16 months on the road](https://unterwegs.2und1.ch/de) in 2021 and 2022: Scandinavia, the Baltics, the Balkans, around the Black Sea and through the Caucasus in a ’92 Mercedes T1 310 4x4 🚒
 - Married, father of two
 - Outside of code: cycling 🚴, running 🏃, photography 📷, cars 🚗, music 🎶
 
@@ -39,11 +39,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/.github](https://github.com/zweiundeins/.github): Organisation profile of zwei und eins gmbh: our services and open-source projects. (1 day ago)
-- [starfederation/datastar-php](https://github.com/starfederation/datastar-php): Official Datastar PHP SDK. (3 days ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (3 days ago)
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (4 days ago)
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (4 days ago)
+- [zweiundeins/wallee-go-sdk](https://github.com/zweiundeins/wallee-go-sdk): Go SDK for the Wallee (wallee.com) payment API, generated from Wallee&#39;s OpenAPI spec, with JWT/MAC auth. (today)
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (today)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (today)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (today)
+- [mbolli/ai-chatbot](https://github.com/mbolli/ai-chatbot): PHP/Swoole/Datastar port of Vercel’s AI Chatbot (today)
 
 ### 🌱 Recent projects
 
@@ -55,15 +55,15 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.2](https://github.com/mbolli/php-via/releases/tag/v0.14.2), 4 days ago): Real-time engine for building reactive web applications in PHP with Swoole.
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.7.0](https://github.com/zweiundeins/starbase/releases/tag/v0.7.0), 6 days ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.6](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.6), 1 week ago): Responsive NetFlow visualizer built on top of nfdump tools.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), 3 weeks ago): A tool to automatically fix PHP Coding Standards issues
-- [mbolli/tempest-highlight-ron](https://github.com/mbolli/tempest-highlight-ron) ([v1.0.3](https://github.com/mbolli/tempest-highlight-ron/releases/tag/v1.0.3), 1 month ago): RON (Readable Object Notation) syntax highlighting for tempest/highlight: parser-backed, role-aware highlighting of keys, values, numbers, literals and structure via the real RON parser (mbolli/php-ron).
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), today): Datastar plugin to sync element properties with reactive signals
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.3](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.3), today): Datastar plugin to bind keyboard keys to actions
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.8.0](https://github.com/zweiundeins/starbase/releases/tag/v0.8.0), 1 day ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.2.0](https://github.com/zweiundeins/lith/releases/tag/v0.2.0), 1 day ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.2](https://github.com/mbolli/php-via/releases/tag/v0.14.2), 6 days ago): Real-time engine for building reactive web applications in PHP with Swoole.
 
 ### 🔨 Recent pull requests
 
-- [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (4 days ago)
+- [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (6 days ago)
 - [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
 - [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
 - [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
@@ -77,8 +77,8 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### ⭐ Recently starred
 
+- [cyon/cyon-plugin](https://github.com/cyon/cyon-plugin): The cyon plugin for Claude Code and Codex: skills and the connection to the cyon MCP server (today)
 - [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper): Opensource Eink bike computer (1 month ago)
 - [Bobowski/stario](https://github.com/Bobowski/stario): Bringing back joy of building web applications. (2 months ago)
 - [starfederation/ron](https://github.com/starfederation/ron): Readable Object Notation  (4 months ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina): A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (5 months ago)
-- [psviderski/uncloud](https://github.com/psviderski/uncloud): A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (6 months ago)
