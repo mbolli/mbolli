@@ -4,7 +4,7 @@ I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run �
 
 What I work on:
 - **Simplifying existing web applications**: off microservices, serverless and needless SPA / API layers, step by step
-- **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file
+- **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file. In Go on [lith](https://github.com/zweiundeins/lith), our runtime for these apps; in PHP on [php-via](https://github.com/mbolli/php-via)
 - **MCP servers** that let AI assistants work with an existing application, read-only unless writes are switched on
 - **Agentic development**: building with coding agents, with the quality kept under control
 
@@ -18,7 +18,7 @@ I measure before I claim: [kanban](https://github.com/zweiundeins/kanban) and [a
 
 The outcome matters more than the tools: software that stays clear, simple and cheap to maintain.
 
-- **Go** (templ, SQLite) and **PHP** (async with OpenSwoole, Mezzio, Slim, Twig, strictly typed), occasionally Python
+- **Go** (templ, SQLite, lith) and **PHP** (async with OpenSwoole and php-via, Mezzio, Slim, Twig, strictly typed), occasionally Python
 - **Databases**: SQLite, MySQL/MariaDB
 - **Frontend**: HTML, plain CSS, TypeScript, Datastar instead of a frontend framework
 - **Tooling**: esbuild, phpstan, php-cs-fixer, coding agents
@@ -31,7 +31,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### Background (short version)
 
 - BSc in Computer Science (IT Security major)
-- [16 months on the road](https://unterwegs.2und1.ch) in 2021 and 2022: Scandinavia, the Baltics, the Balkans, around the Black Sea and through the Caucasus in a ’92 Mercedes T1 310 4x4 🚒
+- [16 months on the road](https://unterwegs.2und1.ch/de) in 2021 and 2022: Scandinavia, the Baltics, the Balkans, around the Black Sea and through the Caucasus in a ’92 Mercedes T1 310 4x4 🚒
 - Married, father of two
 - Outside of code: cycling 🚴, running 🏃, photography 📷, cars 🚗, music 🎶
 
