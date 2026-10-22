@@ -39,11 +39,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop): Datastar plugin to sync element properties with reactive signals (2 days ago)
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys): Datastar plugin to bind keyboard keys to actions (2 days ago)
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (2 days ago)
-- [mbolli/datastar-attribute-newest-frame](https://github.com/mbolli/datastar-attribute-newest-frame): Datastar plugin that applies only the newest frame of each view when a page falls behind its SSE stream (2 days ago)
-- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (3 days ago)
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (1 day ago)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (1 day ago)
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (3 days ago)
+- [mbolli/datastar-attribute-newest-frame](https://github.com/mbolli/datastar-attribute-newest-frame): Datastar plugin that applies only the newest frame of each view when a page falls behind its SSE stream (3 days ago)
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys): Datastar plugin to bind keyboard keys to actions (5 days ago)
 
 ### 🌱 Recent projects
 
@@ -55,19 +55,19 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.0](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.0), 2 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.3.0](https://github.com/zweiundeins/lith/releases/tag/v0.3.0), 3 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
-- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), 4 days ago): Datastar plugin to sync element properties with reactive signals
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.3](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.3), 4 days ago): Datastar plugin to bind keyboard keys to actions
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.8.0](https://github.com/zweiundeins/starbase/releases/tag/v0.8.0), 5 days ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.4.2](https://github.com/zweiundeins/lith/releases/tag/v0.4.2), 1 day ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.1](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.1), 3 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
+- [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), 1 week ago): Datastar plugin to sync element properties with reactive signals
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v1.2.3](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v1.2.3), 1 week ago): Datastar plugin to bind keyboard keys to actions
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.8.0](https://github.com/zweiundeins/starbase/releases/tag/v0.8.0), 1 week ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
 
 ### 🔨 Recent pull requests
 
 - [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (1 week ago)
-- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
-- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
-- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
-- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 week ago)
+- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
+- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
+- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
+- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
 
 ### 📓 Gists
 
@@ -77,7 +77,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### ⭐ Recently starred
 
-- [cyon/cyon-plugin](https://github.com/cyon/cyon-plugin): The cyon plugin for Claude Code and Codex: skills and the connection to the cyon MCP server (4 days ago)
+- [cyon/cyon-plugin](https://github.com/cyon/cyon-plugin): The cyon plugin for Claude Code and Codex: skills and the connection to the cyon MCP server (1 week ago)
 - [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper): Opensource Eink bike computer (1 month ago)
 - [Bobowski/stario](https://github.com/Bobowski/stario): Bringing back joy of building web applications. (3 months ago)
 - [starfederation/ron](https://github.com/starfederation/ron): Readable Object Notation  (4 months ago)
