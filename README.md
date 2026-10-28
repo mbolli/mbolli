@@ -40,10 +40,10 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### 👷 What I’m currently working on
 
 - [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (1 day ago)
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys): Datastar plugin to bind keyboard keys to actions (2 days ago)
-- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (2 days ago)
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS. (3 days ago)
+- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (1 day ago)
+- [zweiundeins/lith-coedit](https://github.com/zweiundeins/lith-coedit): Co-editing for lith apps: ProseMirror documents committed through lith&#39;s writer, with carets, comments and a shared editor protocol. (3 days ago)
+- [zweiundeins/prosemirror-go](https://github.com/zweiundeins/prosemirror-go): A Go port of ProseMirror&#39;s document model and transform, schema-agnostic and standard library only, tested against upstream ProseMirror. (3 days ago)
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (4 days ago)
 
 ### 🌱 Recent projects
 
@@ -55,19 +55,19 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.7](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.7), 1 day ago): Responsive NetFlow visualizer built on top of nfdump tools.
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.1](https://github.com/zweiundeins/lith/releases/tag/v0.5.1), 2 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
-- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v2.0.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v2.0.0), 2 days ago): Datastar plugin to bind keyboard keys to actions
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.1](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.1), 6 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.2](https://github.com/zweiundeins/lith/releases/tag/v0.5.2), 1 day ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.7](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.7), 4 days ago): Responsive NetFlow visualizer built on top of nfdump tools.
+- [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v2.0.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v2.0.0), 5 days ago): Datastar plugin to bind keyboard keys to actions
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.1](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.1), 1 week ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), 1 week ago): Datastar plugin to sync element properties with reactive signals
 
 ### 🔨 Recent pull requests
 
 - [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (2 weeks ago)
-- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
-- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
-- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
-- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (2 weeks ago)
+- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
+- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
+- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
+- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
 
 ### 📓 Gists
 
