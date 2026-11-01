@@ -39,11 +39,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 day ago)
-- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (2 days ago)
-- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (2 days ago)
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (3 days ago)
-- [zweiundeins/prosemirror-go](https://github.com/zweiundeins/prosemirror-go): A Go port of ProseMirror&#39;s document model and transform, schema-agnostic and standard library only, tested against upstream ProseMirror. (6 days ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (2 days ago)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (3 days ago)
+- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (3 days ago)
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (4 days ago)
+- [zweiundeins/prosemirror-go](https://github.com/zweiundeins/prosemirror-go): A Go port of ProseMirror&#39;s document model and transform, schema-agnostic and standard library only, tested against upstream ProseMirror. (1 week ago)
 
 ### 🌱 Recent projects
 
@@ -55,8 +55,8 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.3](https://github.com/zweiundeins/lith/releases/tag/v0.5.3), 2 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 3 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.3](https://github.com/zweiundeins/lith/releases/tag/v0.5.3), 3 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 4 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.7](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.7), 1 week ago): Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v2.0.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v2.0.0), 1 week ago): Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), 2 weeks ago): Datastar plugin to sync element properties with reactive signals
