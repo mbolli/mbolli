@@ -39,11 +39,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (2 days ago)
-- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (3 days ago)
-- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (3 days ago)
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (4 days ago)
-- [zweiundeins/prosemirror-go](https://github.com/zweiundeins/prosemirror-go): A Go port of ProseMirror&#39;s document model and transform, schema-agnostic and standard library only, tested against upstream ProseMirror. (1 week ago)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (1 day ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (5 days ago)
+- [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (6 days ago)
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (1 week ago)
+- [zweiundeins/lith-coedit](https://github.com/zweiundeins/lith-coedit): Co-editing for lith apps: ProseMirror documents committed through lith&#39;s writer, with carets, comments and a shared editor protocol. (1 week ago)
 
 ### 🌱 Recent projects
 
@@ -55,8 +55,8 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.3](https://github.com/zweiundeins/lith/releases/tag/v0.5.3), 3 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 4 days ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.4](https://github.com/zweiundeins/lith/releases/tag/v0.5.4), 1 day ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 1 week ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.7](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.7), 1 week ago): Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v2.0.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v2.0.0), 1 week ago): Datastar plugin to bind keyboard keys to actions
 - [mbolli/datastar-attribute-prop](https://github.com/mbolli/datastar-attribute-prop) ([v1.0.8](https://github.com/mbolli/datastar-attribute-prop/releases/tag/v1.0.8), 2 weeks ago): Datastar plugin to sync element properties with reactive signals
@@ -64,10 +64,10 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### 🔨 Recent pull requests
 
 - [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (3 weeks ago)
-- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
-- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
-- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
-- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (3 weeks ago)
+- [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 weeks ago)
+- [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 weeks ago)
+- [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 weeks ago)
+- [Add sb-sortable-tree: a file tree to reorder by dragging or with the keyboard (from PD rockets)](https://github.com/zweiundeins/starbase/pull/48) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (4 weeks ago)
 
 ### 📓 Gists
 
@@ -81,4 +81,4 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 - [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper): Opensource Eink bike computer (1 month ago)
 - [stariodev/stario](https://github.com/stariodev/stario): Craft realtime hypermedia apps that are a joy to write and ship. A small asyncio Python framework with its own compiled HTTP server, SSE streams, and Datastar built in. Not ASGI. (3 months ago)
 - [starfederation/ron](https://github.com/starfederation/ron): Readable Object Notation  (4 months ago)
-- [pmbanugo/tina](https://github.com/pmbanugo/tina): A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (5 months ago)
+- [pmbanugo/tina](https://github.com/pmbanugo/tina): A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (6 months ago)
