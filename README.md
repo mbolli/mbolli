@@ -39,11 +39,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 👷 What I’m currently working on
 
-- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (4 days ago)
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 week ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 day ago)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (1 week ago)
 - [zweiundeins/tickit](https://github.com/zweiundeins/tickit): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing. (1 week ago)
 - [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics (1 week ago)
-- [zweiundeins/lith-coedit](https://github.com/zweiundeins/lith-coedit): Co-editing for lith apps: ProseMirror documents committed through lith&#39;s writer, with carets, comments and a shared editor protocol. (1 week ago)
+- [zweiundeins/lith-coedit](https://github.com/zweiundeins/lith-coedit): Co-editing for lith apps: ProseMirror documents committed through lith&#39;s writer, with carets, comments and a shared editor protocol. (2 weeks ago)
 
 ### 🌱 Recent projects
 
@@ -55,7 +55,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.4](https://github.com/zweiundeins/lith/releases/tag/v0.5.4), 4 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.4](https://github.com/zweiundeins/lith/releases/tag/v0.5.4), 1 week ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
 - [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 1 week ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) ([v1.0.0-beta.7](https://github.com/mbolli/nfsen-ng/releases/tag/v1.0.0-beta.7), 2 weeks ago): Responsive NetFlow visualizer built on top of nfdump tools.
 - [mbolli/datastar-attribute-on-keys](https://github.com/mbolli/datastar-attribute-on-keys) ([v2.0.0](https://github.com/mbolli/datastar-attribute-on-keys/releases/tag/v2.0.0), 2 weeks ago): Datastar plugin to bind keyboard keys to actions
@@ -63,7 +63,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔨 Recent pull requests
 
-- [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (4 weeks ago)
+- [Build multi-line data with one str_replace() instead of a getDataLine() call per line](https://github.com/starfederation/datastar-php/pull/6) on [starfederation/datastar-php](https://github.com/starfederation/datastar-php) (1 month ago)
 - [Add sb-inline-edit: rename in place, saved and checked by the server (from PD rockets)](https://github.com/zweiundeins/starbase/pull/51) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 month ago)
 - [Add sb-bento-workspace: dashboard tiles to move and resize on two grids (from PD rockets)](https://github.com/zweiundeins/starbase/pull/50) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 month ago)
 - [Add sb-context-menu: one server-rendered menu for many triggers (from PD rockets)](https://github.com/zweiundeins/starbase/pull/49) on [zweiundeins/starbase](https://github.com/zweiundeins/starbase) (1 month ago)
@@ -72,7 +72,7 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### 📓 Gists
 
 - [Get autoscout24.ch favourites as csv](https://gist.github.com/cadfa79fd026e205b8b05716068ff19c) (3 years ago)
-- [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (4 years ago)
+- [GPS/NMEA collector setup (gpsd/prometheus/grafana) ](https://gist.github.com/fba44156cf668940e325f98cb62483f7) (5 years ago)
 - [Gets the size of the current folder&#39;s contents, as long as they&#39;re older than the year specified. Useful for scanning through a big directory, if you want to archive stuff older than x years. Ignores Thumbs.db and .DS_Store files.](https://gist.github.com/8ba3def57706c654187379796af735a6) (8 years ago)
 
 ### ⭐ Recently starred
@@ -80,5 +80,5 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 - [cyon/cyon-plugin](https://github.com/cyon/cyon-plugin): The cyon plugin for Claude Code and Codex: skills and the connection to the cyon MCP server (3 weeks ago)
 - [RaemondBW/OpenTrailPaper](https://github.com/RaemondBW/OpenTrailPaper): Opensource Eink bike computer (2 months ago)
 - [stariodev/stario](https://github.com/stariodev/stario): Craft realtime hypermedia apps that are a joy to write and ship. A small asyncio Python framework with its own compiled HTTP server, SSE streams, and Datastar built in. Not ASGI. (3 months ago)
-- [starfederation/ron](https://github.com/starfederation/ron): Readable Object Notation  (4 months ago)
+- [starfederation/ron](https://github.com/starfederation/ron): Readable Object Notation  (5 months ago)
 - [pmbanugo/tina](https://github.com/pmbanugo/tina): A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA) (6 months ago)
