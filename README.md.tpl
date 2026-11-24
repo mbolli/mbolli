@@ -1,12 +1,12 @@
 ## Hi, I’m Michael 👋
 
-I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run 👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)**. I help companies cut the cost of over-engineered web stacks and make their applications usable by AI agents.
+I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run 👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)**. I help SaaS companies make their product simpler: one server at a fixed price, code the team can change quickly again, and an MCP server so customers can use it from AI assistants.
 
 What I work on:
 - **Simplifying existing web applications**: off microservices, serverless and needless SPA / API layers, step by step
 - **Server-driven systems**: HTML over SSE with Datastar, one process on one server, one SQLite file. In Go on [lith](https://github.com/zweiundeins/lith), our runtime for these apps; in PHP on [php-via](https://github.com/mbolli/php-via)
 - **MCP servers** that let AI assistants work with an existing application, read-only unless writes are switched on
-- **Agentic development**: building with coding agents, with the quality kept under control
+- **Building with coding agents**: in a codebase small enough that someone still reads every change
 
 I measure before I claim: [kanban](https://github.com/zweiundeins/kanban) and [ai-chatbot](https://github.com/mbolli/ai-chatbot) come with every script and all raw data.
 
