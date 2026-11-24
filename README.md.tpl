@@ -1,6 +1,6 @@
 ## Hi, I’m Michael 👋
 
-I’m a **self-employed software engineer from Switzerland** 🇨🇭 and run 👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)**. I help SaaS companies make their product simpler: one server at a fixed price, code the team can change quickly again, and an MCP server so customers can use it from AI assistants.
+I’m a **senior software engineer at [cyon](https://www.cyon.ch)** 🇨🇭, the Swiss web host, since August 2026, and run 👉 **[zwei und eins gmbh](https://zweiundeins.gmbh)** alongside. There I help SaaS companies make their product simpler: one server at a fixed price, code the team can change quickly again, and an MCP server so customers can use it from AI assistants.
 
 What I work on:
 - **Simplifying existing web applications**: off microservices, serverless and needless SPA / API layers, step by step
