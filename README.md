@@ -40,10 +40,10 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 ### 👷 What I’m currently working on
 
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng): Responsive NetFlow visualizer built on top of nfdump tools. (1 day ago)
-- [zweiundeins/cashctrl-go-sdk](https://github.com/zweiundeins/cashctrl-go-sdk): Go client for the CashCtrl API, generated from the cashctrl-ts-sdk spec (3 days ago)
-- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (3 days ago)
-- [zweiundeins/cashctrl-ts-sdk](https://github.com/zweiundeins/cashctrl-ts-sdk): Typed TypeScript client for the CashCtrl accounting API, covering all 376 endpoints. Includes a generated OpenAPI 3.1 spec. Runs on Deno, Node and Bun. (3 days ago)
-- [zweiundeins/cashctrl-mcp](https://github.com/zweiundeins/cashctrl-mcp): MCP server for the CashCtrl accounting API: 18 read tools over 376 endpoints, plus four write tools behind an explicit write mode. Deno or Node. (3 days ago)
+- [zweiundeins/lith](https://github.com/zweiundeins/lith): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps. (4 days ago)
+- [zweiundeins/cashctrl-mcp](https://github.com/zweiundeins/cashctrl-mcp): MCP server for the CashCtrl accounting API: 18 read tools over 376 endpoints, plus four write tools behind an explicit write mode. Deno or Node. (1 week ago)
+- [mbolli/claude-code-dev-container](https://github.com/mbolli/claude-code-dev-container): Self-hosted dev container running Claude Code over SSH, reachable from VS Code Remote-SSH and the Claude mobile app (1 week ago)
+- [zweiundeins/cashctrl-go-sdk](https://github.com/zweiundeins/cashctrl-go-sdk): Go client for the CashCtrl API, generated from the cashctrl-ts-sdk spec (1 week ago)
 
 ### 🌱 Recent projects
 
@@ -55,11 +55,11 @@ I occasionally touch React, Vue or other SPAs, usually while migrating away from
 
 ### 🔭 Recent releases I’ve contributed to
 
-- [zweiundeins/tickit](https://github.com/zweiundeins/tickit) ([v0.5.1](https://github.com/zweiundeins/tickit/releases/tag/v0.5.1), 5 days ago): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing.
-- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.10](https://github.com/zweiundeins/lith/releases/tag/v0.5.10), 5 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
-- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.11.2](https://github.com/zweiundeins/starbase/releases/tag/v0.11.2), 5 days ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
-- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.3](https://github.com/mbolli/php-via/releases/tag/v0.14.3), 5 days ago): Real-time engine for building reactive web applications in PHP with Swoole.
-- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 3 weeks ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
+- [zweiundeins/lith](https://github.com/zweiundeins/lith) ([v0.5.11](https://github.com/zweiundeins/lith/releases/tag/v0.5.11), 4 days ago): lith: Linear writes, Immediate mode, Ticks, Hypermedia. A Go runtime for SQLite and Datastar apps.
+- [zweiundeins/tickit](https://github.com/zweiundeins/tickit) ([v0.5.1](https://github.com/zweiundeins/tickit/releases/tag/v0.5.1), 1 week ago): An issue tracker and a wiki that several people use at once, live: the public demo of lith. Go, templ, SQLite, Datastar, event sourcing, ProseMirror co-editing.
+- [zweiundeins/starbase](https://github.com/zweiundeins/starbase) ([v0.11.2](https://github.com/zweiundeins/starbase/releases/tag/v0.11.2), 1 week ago): Community Components for Rocket: a gallery of Datastar Rocket web components. Go, templ, SQLite, CQRS.
+- [mbolli/php-via](https://github.com/mbolli/php-via) ([v0.14.3](https://github.com/mbolli/php-via/releases/tag/v0.14.3), 1 week ago): Real-time engine for building reactive web applications in PHP with Swoole.
+- [mbolli/ha-bkw](https://github.com/mbolli/ha-bkw) ([v0.3.2](https://github.com/mbolli/ha-bkw/releases/tag/v0.3.2), 1 month ago): Home Assistant integration that imports BKW smart meter consumption and cost into long-term statistics
 
 ### 🔨 Recent pull requests
 
